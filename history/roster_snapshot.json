@@ -1,7 +1,7 @@
 {
   "clan_name": "20,000 Leagues",
   "clan_tag": "#2VJ2LPY8",
-  "fetched_at": "2026-09-26T21:24:56.013317+00:00",
+  "fetched_at": "2026-09-26T23:46:20.975904+00:00",
   "members": [
     {
       "tag": "#8VPQY29Y0",
@@ -241,7 +241,7 @@
       "builderBaseTrophies": 4017,
       "clanRank": 5,
       "previousClanRank": 5,
-      "donations": 4793,
+      "donations": 4843,
       "donationsReceived": 3491,
       "playerHouse": {
         "elements": [
@@ -450,7 +450,7 @@
         }
       },
       "trophies": 375,
-      "builderBaseTrophies": 3998,
+      "builderBaseTrophies": 4029,
       "clanRank": 9,
       "previousClanRank": 9,
       "donations": 909,
@@ -476,8 +476,8 @@
         ]
       },
       "builderBaseLeague": {
-        "id": 44000029,
-        "name": "Titanium League III"
+        "id": 44000030,
+        "name": "Titanium League II"
       }
     },
     {
@@ -805,7 +805,7 @@
       "clanRank": 16,
       "previousClanRank": 16,
       "donations": 1319,
-      "donationsReceived": 667,
+      "donationsReceived": 717,
       "playerHouse": {
         "elements": [
           {
@@ -1331,7 +1331,7 @@
         }
       },
       "trophies": 156,
-      "builderBaseTrophies": 2926,
+      "builderBaseTrophies": 2929,
       "clanRank": 26,
       "previousClanRank": 0,
       "donations": 0,
@@ -1588,7 +1588,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/yS8XBv_a_SNtCpcofsWMFaojRNwO504Py7HyDCBCjYU.png"
         }
       },
-      "trophies": 116,
+      "trophies": 154,
       "builderBaseTrophies": 2757,
       "clanRank": 32,
       "previousClanRank": 30,
