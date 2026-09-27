@@ -1,7 +1,7 @@
 {
   "clan_name": "20,000 Leagues",
   "clan_tag": "#2VJ2LPY8",
-  "fetched_at": "2026-09-27T15:14:21.311881+00:00",
+  "fetched_at": "2026-09-27T19:10:54.139129+00:00",
   "members": [
     {
       "tag": "#8VPQY29Y0",
@@ -135,8 +135,8 @@
       "builderBaseTrophies": 3166,
       "clanRank": 3,
       "previousClanRank": 3,
-      "donations": 7844,
-      "donationsReceived": 5502,
+      "donations": 7980,
+      "donationsReceived": 5708,
       "playerHouse": {
         "elements": [
           {
@@ -184,12 +184,12 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png"
         }
       },
-      "trophies": 781,
+      "trophies": 806,
       "builderBaseTrophies": 2537,
       "clanRank": 4,
       "previousClanRank": 4,
-      "donations": 9754,
-      "donationsReceived": 4912,
+      "donations": 9816,
+      "donationsReceived": 5108,
       "playerHouse": {
         "elements": [
           {
@@ -220,7 +220,7 @@
       "name": "Laza",
       "role": "coLeader",
       "townHallLevel": 16,
-      "expLevel": 203,
+      "expLevel": 204,
       "league": {
         "id": 29000000,
         "name": "Unranked",
@@ -241,7 +241,7 @@
       "builderBaseTrophies": 4086,
       "clanRank": 5,
       "previousClanRank": 5,
-      "donations": 5172,
+      "donations": 5359,
       "donationsReceived": 3657,
       "playerHouse": {
         "elements": [
@@ -400,7 +400,7 @@
       "builderBaseTrophies": 3010,
       "clanRank": 8,
       "previousClanRank": 8,
-      "donations": 1681,
+      "donations": 1737,
       "donationsReceived": 742,
       "playerHouse": {
         "elements": [
@@ -450,10 +450,10 @@
         }
       },
       "trophies": 375,
-      "builderBaseTrophies": 3901,
+      "builderBaseTrophies": 3863,
       "clanRank": 9,
       "previousClanRank": 9,
-      "donations": 937,
+      "donations": 990,
       "donationsReceived": 464,
       "playerHouse": {
         "elements": [
@@ -507,7 +507,7 @@
       "clanRank": 10,
       "previousClanRank": 10,
       "donations": 1331,
-      "donationsReceived": 5316,
+      "donationsReceived": 5422,
       "playerHouse": {
         "elements": [
           {
@@ -677,7 +677,7 @@
       "name": "GoLd ViPeR",
       "role": "member",
       "townHallLevel": 16,
-      "expLevel": 188,
+      "expLevel": 189,
       "league": {
         "id": 29000000,
         "name": "Unranked",
@@ -694,7 +694,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/YCZ7O_3_c8eCBYvX-92qiWeLc6Md6eNJ5A8O-2vUg7I.png"
         }
       },
-      "trophies": 103,
+      "trophies": 133,
       "builderBaseTrophies": 3138,
       "clanRank": 14,
       "previousClanRank": 14,
@@ -800,12 +800,12 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/yIfqSgrhiYRcuMbAPCoeCj1FTmfylCLxnrAljEZc8K0.png"
         }
       },
-      "trophies": 450,
+      "trophies": 478,
       "builderBaseTrophies": 2965,
       "clanRank": 16,
       "previousClanRank": 16,
-      "donations": 1402,
-      "donationsReceived": 768,
+      "donations": 1517,
+      "donationsReceived": 786,
       "playerHouse": {
         "elements": [
           {
@@ -907,7 +907,7 @@
         }
       },
       "trophies": 0,
-      "builderBaseTrophies": 3112,
+      "builderBaseTrophies": 3175,
       "clanRank": 18,
       "previousClanRank": 18,
       "donations": 659,
@@ -964,7 +964,7 @@
       "clanRank": 19,
       "previousClanRank": 19,
       "donations": 369,
-      "donationsReceived": 1738,
+      "donationsReceived": 1821,
       "playerHouse": {
         "elements": [
           {
@@ -1588,7 +1588,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/yS8XBv_a_SNtCpcofsWMFaojRNwO504Py7HyDCBCjYU.png"
         }
       },
-      "trophies": 154,
+      "trophies": 165,
       "builderBaseTrophies": 2757,
       "clanRank": 32,
       "previousClanRank": 31,
@@ -2066,7 +2066,7 @@
         }
       },
       "trophies": 412,
-      "builderBaseTrophies": 2224,
+      "builderBaseTrophies": 2108,
       "clanRank": 41,
       "previousClanRank": 40,
       "donations": 159,
@@ -2092,8 +2092,8 @@
         ]
       },
       "builderBaseLeague": {
-        "id": 44000021,
-        "name": "Brass League II"
+        "id": 44000020,
+        "name": "Brass League III"
       }
     },
     {
