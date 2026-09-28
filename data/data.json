@@ -541,9 +541,9 @@
       "rol": "Reserva"
     },
     {
-      "player": "DiegoATS491",
-      "tag": "#YJC2CJQQJ",
-      "th": 18,
+      "player": "Drake23",
+      "tag": "#Q2Q2CCGLR",
+      "th": 16,
       "atq1m": 0,
       "prom1m": 0,
       "p3_1m": 0.0,
@@ -561,9 +561,9 @@
       "rol": "Reserva"
     },
     {
-      "player": "shadow king",
-      "tag": "#YGR0G8QJ0",
-      "th": 16,
+      "player": "DiegoATS491",
+      "tag": "#YJC2CJQQJ",
+      "th": 18,
       "atq1m": 0,
       "prom1m": 0,
       "p3_1m": 0.0,
@@ -741,26 +741,6 @@
       "rol": "Reserva"
     },
     {
-      "player": "RAUL YT",
-      "tag": "#LPGQPRVJY",
-      "th": 16,
-      "atq1m": 0,
-      "prom1m": 0,
-      "p3_1m": 0.0,
-      "pfaltas1m": 0,
-      "score1m": 60,
-      "atq2m": 0,
-      "prom2m": 0,
-      "p3_2m": 0.0,
-      "pfaltas2m": 0,
-      "score2m": 60,
-      "tendencia": null,
-      "score_final": 60.0,
-      "confianza": "Baja",
-      "rank": 38,
-      "rol": "Reserva"
-    },
-    {
       "player": "ADNHDZ94",
       "tag": "#LG9VGRLG2",
       "th": 16,
@@ -777,7 +757,7 @@
       "tendencia": null,
       "score_final": 59.9659,
       "confianza": "Baja",
-      "rank": 39,
+      "rank": 38,
       "rol": "Reserva"
     },
     {
@@ -797,7 +777,7 @@
       "tendencia": null,
       "score_final": 59.8956,
       "confianza": "Baja",
-      "rank": 40,
+      "rank": 39,
       "rol": "Reserva"
     },
     {
@@ -817,7 +797,7 @@
       "tendencia": null,
       "score_final": 59.744,
       "confianza": "Baja",
-      "rank": 41,
+      "rank": 40,
       "rol": "Reserva"
     },
     {
@@ -837,7 +817,7 @@
       "tendencia": null,
       "score_final": 58.9577,
       "confianza": "Baja",
-      "rank": 42,
+      "rank": 41,
       "rol": "Reserva"
     },
     {
@@ -857,7 +837,7 @@
       "tendencia": null,
       "score_final": 58.1944,
       "confianza": "Baja",
-      "rank": 43,
+      "rank": 42,
       "rol": "Reserva"
     },
     {
@@ -877,7 +857,7 @@
       "tendencia": null,
       "score_final": 58.1944,
       "confianza": "Baja",
-      "rank": 44,
+      "rank": 43,
       "rol": "Reserva"
     },
     {
@@ -897,7 +877,7 @@
       "tendencia": null,
       "score_final": 57.6389,
       "confianza": "Media",
-      "rank": 45,
+      "rank": 44,
       "rol": "Reserva"
     },
     {
@@ -917,7 +897,7 @@
       "tendencia": null,
       "score_final": 56.875,
       "confianza": "Baja",
-      "rank": 46,
+      "rank": 45,
       "rol": "Reserva"
     },
     {
@@ -937,7 +917,7 @@
       "tendencia": null,
       "score_final": 56.2302,
       "confianza": "Baja",
-      "rank": 47,
+      "rank": 46,
       "rol": "Reserva"
     },
     {
@@ -957,7 +937,7 @@
       "tendencia": null,
       "score_final": 55.9607,
       "confianza": "Baja",
-      "rank": 48,
+      "rank": 47,
       "rol": "Reserva"
     }
   ],
@@ -1923,10 +1903,10 @@
       "def_p0s": 0.0
     },
     {
-      "tag": "#YJC2CJQQJ",
-      "name": "DiegoATS491",
+      "tag": "#Q2Q2CCGLR",
+      "name": "Drake23",
       "date_last_war": null,
-      "avg_th": 18,
+      "avg_th": 16,
       "atq_count": 0,
       "atq_avg_th_target": null,
       "atq_avg_stars": 0,
@@ -1953,10 +1933,10 @@
       "def_p0s": 0
     },
     {
-      "tag": "#YGR0G8QJ0",
-      "name": "shadow king",
+      "tag": "#YJC2CJQQJ",
+      "name": "DiegoATS491",
       "date_last_war": null,
-      "avg_th": 16,
+      "avg_th": 18,
       "atq_count": 0,
       "atq_avg_th_target": null,
       "atq_avg_stars": 0,
@@ -2195,36 +2175,6 @@
     {
       "tag": "#209LGG8RY",
       "name": "la maravilla",
-      "date_last_war": null,
-      "avg_th": 16,
-      "atq_count": 0,
-      "atq_avg_th_target": null,
-      "atq_avg_stars": 0,
-      "atq_3s": 0,
-      "atq_p3s": 0,
-      "atq_2s": 0,
-      "atq_p2s": 0,
-      "atq_1s": 0,
-      "atq_p1s": 0,
-      "atq_0s": 0,
-      "atq_p0s": 0,
-      "atq_miss": 0,
-      "atq_pmiss": 0,
-      "def_count": 0,
-      "def_avg_th": null,
-      "def_avg_stars": 0,
-      "def_3s": 0,
-      "def_p3s": 0,
-      "def_2s": 0,
-      "def_p2s": 0,
-      "def_1s": 0,
-      "def_p1s": 0,
-      "def_0s": 0,
-      "def_p0s": 0
-    },
-    {
-      "tag": "#LPGQPRVJY",
-      "name": "RAUL YT",
       "date_last_war": null,
       "avg_th": 16,
       "atq_count": 0,
@@ -3365,10 +3315,10 @@
       "def_p0s": 0.0
     },
     {
-      "tag": "#YJC2CJQQJ",
-      "name": "DiegoATS491",
+      "tag": "#Q2Q2CCGLR",
+      "name": "Drake23",
       "date_last_war": null,
-      "avg_th": 18,
+      "avg_th": 16,
       "atq_count": 0,
       "atq_avg_th_target": null,
       "atq_avg_stars": 0,
@@ -3395,10 +3345,10 @@
       "def_p0s": 0
     },
     {
-      "tag": "#YGR0G8QJ0",
-      "name": "shadow king",
+      "tag": "#YJC2CJQQJ",
+      "name": "DiegoATS491",
       "date_last_war": null,
-      "avg_th": 16,
+      "avg_th": 18,
       "atq_count": 0,
       "atq_avg_th_target": null,
       "atq_avg_stars": 0,
@@ -3637,36 +3587,6 @@
     {
       "tag": "#209LGG8RY",
       "name": "la maravilla",
-      "date_last_war": null,
-      "avg_th": 16,
-      "atq_count": 0,
-      "atq_avg_th_target": null,
-      "atq_avg_stars": 0,
-      "atq_3s": 0,
-      "atq_p3s": 0,
-      "atq_2s": 0,
-      "atq_p2s": 0,
-      "atq_1s": 0,
-      "atq_p1s": 0,
-      "atq_0s": 0,
-      "atq_p0s": 0,
-      "atq_miss": 0,
-      "atq_pmiss": 0,
-      "def_count": 0,
-      "def_avg_th": null,
-      "def_avg_stars": 0,
-      "def_3s": 0,
-      "def_p3s": 0,
-      "def_2s": 0,
-      "def_p2s": 0,
-      "def_1s": 0,
-      "def_p1s": 0,
-      "def_0s": 0,
-      "def_p0s": 0
-    },
-    {
-      "tag": "#LPGQPRVJY",
-      "name": "RAUL YT",
       "date_last_war": null,
       "avg_th": 16,
       "atq_count": 0,
@@ -4093,11 +4013,19 @@
       "estrellas_guerra": null
     },
     {
+      "tag": "#Q2Q2CCGLR",
+      "nick": "Drake23",
+      "th": 16,
+      "rol": "member",
+      "rango": 13,
+      "estrellas_guerra": null
+    },
+    {
       "tag": "#YY9J2JJYC",
       "nick": "Matikun",
       "th": 16,
       "rol": "admin",
-      "rango": 13,
+      "rango": 14,
       "estrellas_guerra": null
     },
     {
@@ -4105,7 +4033,7 @@
       "nick": "Lluvia⚡",
       "th": 15,
       "rol": "member",
-      "rango": 14,
+      "rango": 15,
       "estrellas_guerra": null
     },
     {
@@ -4113,7 +4041,7 @@
       "nick": "DiegoATS491",
       "th": 18,
       "rol": "member",
-      "rango": 15,
+      "rango": 16,
       "estrellas_guerra": null
     },
     {
@@ -4121,7 +4049,7 @@
       "nick": "Leonardo13",
       "th": 15,
       "rol": "admin",
-      "rango": 16,
+      "rango": 17,
       "estrellas_guerra": null
     },
     {
@@ -4129,7 +4057,7 @@
       "nick": "SAECC",
       "th": 16,
       "rol": "member",
-      "rango": 17,
+      "rango": 18,
       "estrellas_guerra": null
     },
     {
@@ -4137,20 +4065,12 @@
       "nick": "JoseCarlos4",
       "th": 15,
       "rol": "member",
-      "rango": 18,
+      "rango": 19,
       "estrellas_guerra": null
     },
     {
       "tag": "#QC2QR8YYJ",
       "nick": "Krys",
-      "th": 16,
-      "rol": "member",
-      "rango": 19,
-      "estrellas_guerra": null
-    },
-    {
-      "tag": "#YGR0G8QJ0",
-      "nick": "shadow king",
       "th": 16,
       "rol": "member",
       "rango": 20,
@@ -4370,14 +4290,6 @@
       "th": 16,
       "rol": "member",
       "rango": 47,
-      "estrellas_guerra": null
-    },
-    {
-      "tag": "#LPGQPRVJY",
-      "nick": "RAUL YT",
-      "th": 16,
-      "rol": "member",
-      "rango": 48,
       "estrellas_guerra": null
     }
   ],
@@ -4870,7 +4782,7 @@
     },
     {
       "rank": 28,
-      "player": "DiegoATS491",
+      "player": "Drake23",
       "rol": "Reserva",
       "d1": null,
       "d2": null,
@@ -4888,7 +4800,7 @@
     },
     {
       "rank": 29,
-      "player": "shadow king",
+      "player": "DiegoATS491",
       "rol": "Reserva",
       "d1": null,
       "d2": null,
@@ -4926,7 +4838,7 @@
   "meta": {
     "clanTag": "#2VJ2LPY8",
     "clanName": "20,000 Leagues",
-    "lastUpdated": "2026-09-28 07:25 UTC",
+    "lastUpdated": "2026-09-28 15:48 UTC",
     "historyStart": "2026-09-22",
     "source": "Clash of Clans API (oficial) vía cocproxy.royaleapi.dev"
   }
