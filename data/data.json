@@ -3941,18 +3941,18 @@
       "estrellas_guerra": null
     },
     {
-      "tag": "#90QL28VV",
-      "nick": "Laza",
-      "th": 16,
-      "rol": "coLeader",
-      "rango": 4,
-      "estrellas_guerra": null
-    },
-    {
       "tag": "#2G9JQU88L",
       "nick": "Gabriel :D",
       "th": 17,
       "rol": "admin",
+      "rango": 4,
+      "estrellas_guerra": null
+    },
+    {
+      "tag": "#90QL28VV",
+      "nick": "Laza",
+      "th": 16,
+      "rol": "coLeader",
       "rango": 5,
       "estrellas_guerra": null
     },
@@ -4838,7 +4838,7 @@
   "meta": {
     "clanTag": "#2VJ2LPY8",
     "clanName": "20,000 Leagues",
-    "lastUpdated": "2026-09-28 21:42 UTC",
+    "lastUpdated": "2026-09-29 01:38 UTC",
     "historyStart": "2026-09-22",
     "source": "Clash of Clans API (oficial) vía cocproxy.royaleapi.dev"
   }
