@@ -3925,18 +3925,18 @@
       "estrellas_guerra": null
     },
     {
-      "tag": "#GLCU09UCP",
-      "nick": "Say May Name",
-      "th": 17,
-      "rol": "admin",
-      "rango": 2,
-      "estrellas_guerra": null
-    },
-    {
       "tag": "#8VPQY29Y0",
       "nick": "Tele",
       "th": 18,
       "rol": "leader",
+      "rango": 2,
+      "estrellas_guerra": null
+    },
+    {
+      "tag": "#GLCU09UCP",
+      "nick": "Say May Name",
+      "th": 17,
+      "rol": "admin",
       "rango": 3,
       "estrellas_guerra": null
     },
@@ -3973,18 +3973,18 @@
       "estrellas_guerra": null
     },
     {
-      "tag": "#228UCYYQC",
-      "nick": "Anthony",
-      "th": 17,
-      "rol": "member",
-      "rango": 8,
-      "estrellas_guerra": null
-    },
-    {
       "tag": "#9YPLUQ9GV",
       "nick": "muset",
       "th": 16,
       "rol": "admin",
+      "rango": 8,
+      "estrellas_guerra": null
+    },
+    {
+      "tag": "#228UCYYQC",
+      "nick": "Anthony",
+      "th": 17,
+      "rol": "member",
       "rango": 9,
       "estrellas_guerra": null
     },
@@ -4013,24 +4013,24 @@
       "estrellas_guerra": null
     },
     {
+      "tag": "#8YY2PG88Y",
+      "nick": "Lluvia⚡",
+      "th": 16,
+      "rol": "member",
+      "rango": 13,
+      "estrellas_guerra": null
+    },
+    {
       "tag": "#YY9J2JJYC",
       "nick": "Matikun",
       "th": 16,
       "rol": "admin",
-      "rango": 13,
+      "rango": 14,
       "estrellas_guerra": null
     },
     {
       "tag": "#Q2Q2CCGLR",
       "nick": "Drake23",
-      "th": 16,
-      "rol": "member",
-      "rango": 14,
-      "estrellas_guerra": null
-    },
-    {
-      "tag": "#8YY2PG88Y",
-      "nick": "Lluvia⚡",
       "th": 16,
       "rol": "member",
       "rango": 15,
@@ -4189,11 +4189,19 @@
       "estrellas_guerra": null
     },
     {
+      "tag": "#8V2P0YJU9",
+      "nick": "Nico (CBA) Arg",
+      "th": 14,
+      "rol": "admin",
+      "rango": 35,
+      "estrellas_guerra": null
+    },
+    {
       "tag": "#LG2YRC02Q",
       "nick": "yo te cómo ati",
       "th": 13,
       "rol": "member",
-      "rango": 35,
+      "rango": 36,
       "estrellas_guerra": null
     },
     {
@@ -4201,14 +4209,6 @@
       "nick": "LEYENDÆ",
       "th": 12,
       "rol": "member",
-      "rango": 36,
-      "estrellas_guerra": null
-    },
-    {
-      "tag": "#8V2P0YJU9",
-      "nick": "Nico (CBA) Arg",
-      "th": 14,
-      "rol": "admin",
       "rango": 37,
       "estrellas_guerra": null
     },
@@ -4838,7 +4838,7 @@
   "meta": {
     "clanTag": "#2VJ2LPY8",
     "clanName": "20,000 Leagues",
-    "lastUpdated": "2026-09-29 15:00 UTC",
+    "lastUpdated": "2026-09-29 20:09 UTC",
     "historyStart": "2026-09-22",
     "source": "Clash of Clans API (oficial) vía cocproxy.royaleapi.dev"
   }
