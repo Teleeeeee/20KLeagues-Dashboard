@@ -641,8 +641,8 @@
       "rol": "Reserva"
     },
     {
-      "player": "GoLd ViPeR",
-      "tag": "#Y89QR2CR2",
+      "player": "-actiived-",
+      "tag": "#2LQRVJJ2",
       "th": 16,
       "atq1m": 0,
       "prom1m": 0,
@@ -661,8 +661,8 @@
       "rol": "Reserva"
     },
     {
-      "player": "-actiived-",
-      "tag": "#2LQRVJJ2",
+      "player": "GoLd ViPeR",
+      "tag": "#Y89QR2CR2",
       "th": 16,
       "atq1m": 0,
       "prom1m": 0,
@@ -1993,36 +1993,6 @@
       "def_p0s": 0
     },
     {
-      "tag": "#Y89QR2CR2",
-      "name": "GoLd ViPeR",
-      "date_last_war": null,
-      "avg_th": 16,
-      "atq_count": 0,
-      "atq_avg_th_target": null,
-      "atq_avg_stars": 0,
-      "atq_3s": 0,
-      "atq_p3s": 0,
-      "atq_2s": 0,
-      "atq_p2s": 0,
-      "atq_1s": 0,
-      "atq_p1s": 0,
-      "atq_0s": 0,
-      "atq_p0s": 0,
-      "atq_miss": 0,
-      "atq_pmiss": 0,
-      "def_count": 1,
-      "def_avg_th": 16,
-      "def_avg_stars": 3,
-      "def_3s": 1,
-      "def_p3s": 100.0,
-      "def_2s": 0,
-      "def_p2s": 0.0,
-      "def_1s": 0,
-      "def_p1s": 0.0,
-      "def_0s": 0,
-      "def_p0s": 0.0
-    },
-    {
       "tag": "#2LQRVJJ2",
       "name": "-actiived-",
       "date_last_war": null,
@@ -2051,6 +2021,36 @@
       "def_p1s": 0,
       "def_0s": 0,
       "def_p0s": 0
+    },
+    {
+      "tag": "#Y89QR2CR2",
+      "name": "GoLd ViPeR",
+      "date_last_war": null,
+      "avg_th": 16,
+      "atq_count": 0,
+      "atq_avg_th_target": null,
+      "atq_avg_stars": 0,
+      "atq_3s": 0,
+      "atq_p3s": 0,
+      "atq_2s": 0,
+      "atq_p2s": 0,
+      "atq_1s": 0,
+      "atq_p1s": 0,
+      "atq_0s": 0,
+      "atq_p0s": 0,
+      "atq_miss": 0,
+      "atq_pmiss": 0,
+      "def_count": 1,
+      "def_avg_th": 16,
+      "def_avg_stars": 3,
+      "def_3s": 1,
+      "def_p3s": 100.0,
+      "def_2s": 0,
+      "def_p2s": 0.0,
+      "def_1s": 0,
+      "def_p1s": 0.0,
+      "def_0s": 0,
+      "def_p0s": 0.0
     },
     {
       "tag": "#YJC2CJQQJ",
@@ -3315,36 +3315,6 @@
       "def_p0s": 0
     },
     {
-      "tag": "#Y89QR2CR2",
-      "name": "GoLd ViPeR",
-      "date_last_war": null,
-      "avg_th": 16,
-      "atq_count": 0,
-      "atq_avg_th_target": null,
-      "atq_avg_stars": 0,
-      "atq_3s": 0,
-      "atq_p3s": 0,
-      "atq_2s": 0,
-      "atq_p2s": 0,
-      "atq_1s": 0,
-      "atq_p1s": 0,
-      "atq_0s": 0,
-      "atq_p0s": 0,
-      "atq_miss": 0,
-      "atq_pmiss": 0,
-      "def_count": 1,
-      "def_avg_th": 16,
-      "def_avg_stars": 3,
-      "def_3s": 1,
-      "def_p3s": 100.0,
-      "def_2s": 0,
-      "def_p2s": 0.0,
-      "def_1s": 0,
-      "def_p1s": 0.0,
-      "def_0s": 0,
-      "def_p0s": 0.0
-    },
-    {
       "tag": "#2LQRVJJ2",
       "name": "-actiived-",
       "date_last_war": null,
@@ -3373,6 +3343,36 @@
       "def_p1s": 0,
       "def_0s": 0,
       "def_p0s": 0
+    },
+    {
+      "tag": "#Y89QR2CR2",
+      "name": "GoLd ViPeR",
+      "date_last_war": null,
+      "avg_th": 16,
+      "atq_count": 0,
+      "atq_avg_th_target": null,
+      "atq_avg_stars": 0,
+      "atq_3s": 0,
+      "atq_p3s": 0,
+      "atq_2s": 0,
+      "atq_p2s": 0,
+      "atq_1s": 0,
+      "atq_p1s": 0,
+      "atq_0s": 0,
+      "atq_p0s": 0,
+      "atq_miss": 0,
+      "atq_pmiss": 0,
+      "def_count": 1,
+      "def_avg_th": 16,
+      "def_avg_stars": 3,
+      "def_3s": 1,
+      "def_p3s": 100.0,
+      "def_2s": 0,
+      "def_p2s": 0.0,
+      "def_1s": 0,
+      "def_p1s": 0.0,
+      "def_0s": 0,
+      "def_p0s": 0.0
     },
     {
       "tag": "#YJC2CJQQJ",
@@ -3709,18 +3709,18 @@
       "estrellas_guerra": null
     },
     {
-      "tag": "#2G9JQU88L",
-      "nick": "Gabriel :D",
-      "th": 18,
-      "rol": "admin",
-      "rango": 5,
-      "estrellas_guerra": null
-    },
-    {
       "tag": "#90QL28VV",
       "nick": "Laza",
       "th": 16,
       "rol": "coLeader",
+      "rango": 5,
+      "estrellas_guerra": null
+    },
+    {
+      "tag": "#2G9JQU88L",
+      "nick": "Gabriel :D",
+      "th": 18,
+      "rol": "admin",
       "rango": 6,
       "estrellas_guerra": null
     },
@@ -3765,9 +3765,9 @@
       "estrellas_guerra": null
     },
     {
-      "tag": "#Y89QR2CR2",
-      "nick": "GoLd ViPeR",
-      "th": 16,
+      "tag": "#LUVQVRPG8",
+      "nick": "pachiche123",
+      "th": 15,
       "rol": "member",
       "rango": 12,
       "estrellas_guerra": null
@@ -3781,9 +3781,9 @@
       "estrellas_guerra": null
     },
     {
-      "tag": "#LUVQVRPG8",
-      "nick": "pachiche123",
-      "th": 15,
+      "tag": "#Y89QR2CR2",
+      "nick": "GoLd ViPeR",
+      "th": 16,
       "rol": "member",
       "rango": 14,
       "estrellas_guerra": null
@@ -4574,7 +4574,7 @@
   "meta": {
     "clanTag": "#2VJ2LPY8",
     "clanName": "20,000 Leagues",
-    "lastUpdated": "2026-10-01 14:41 UTC",
+    "lastUpdated": "2026-10-01 20:13 UTC",
     "historyStart": "2026-09-22",
     "source": "Clash of Clans API (oficial) vía cocproxy.royaleapi.dev"
   }
