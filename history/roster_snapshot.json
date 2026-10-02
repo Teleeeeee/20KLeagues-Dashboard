@@ -1,7 +1,7 @@
 {
   "clan_name": "20,000 Leagues",
   "clan_tag": "#2VJ2LPY8",
-  "fetched_at": "2026-10-02T18:37:38.531821+00:00",
+  "fetched_at": "2026-10-02T22:51:27.908027+00:00",
   "members": [
     {
       "tag": "#2VJ9CYJV",
@@ -240,7 +240,7 @@
       "trophies": 647,
       "builderBaseTrophies": 3166,
       "clanRank": 5,
-      "previousClanRank": 6,
+      "previousClanRank": 5,
       "donations": 10494,
       "donationsReceived": 7172,
       "playerHouse": {
@@ -293,7 +293,7 @@
       "trophies": 585,
       "builderBaseTrophies": 4271,
       "clanRank": 6,
-      "previousClanRank": 5,
+      "previousClanRank": 6,
       "donations": 6948,
       "donationsReceived": 3963,
       "playerHouse": {
@@ -343,7 +343,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png"
         }
       },
-      "trophies": 562,
+      "trophies": 582,
       "builderBaseTrophies": 2325,
       "clanRank": 7,
       "previousClanRank": 7,
@@ -505,7 +505,7 @@
       "trophies": 351,
       "builderBaseTrophies": 3238,
       "clanRank": 10,
-      "previousClanRank": 11,
+      "previousClanRank": 10,
       "donations": 1594,
       "donationsReceived": 6583,
       "playerHouse": {
@@ -558,7 +558,7 @@
       "trophies": 337,
       "builderBaseTrophies": 3863,
       "clanRank": 11,
-      "previousClanRank": 10,
+      "previousClanRank": 11,
       "donations": 1140,
       "donationsReceived": 464,
       "playerHouse": {
@@ -1086,7 +1086,7 @@
         }
       },
       "trophies": 0,
-      "builderBaseTrophies": 3175,
+      "builderBaseTrophies": 3187,
       "clanRank": 21,
       "previousClanRank": 21,
       "donations": 718,
@@ -1244,7 +1244,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/iTWXPUUFQy0uEb7NDpMTyzGMFOJvlC4SLAqlHYgC8do.png"
         }
       },
-      "trophies": 393,
+      "trophies": 402,
       "builderBaseTrophies": 2600,
       "clanRank": 24,
       "previousClanRank": 24,
@@ -1403,7 +1403,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/WkqDvnK0CXI-Nc0TNTKG_fSuzRYoLRC54HFOdMCxVTI.png"
         }
       },
-      "trophies": 255,
+      "trophies": 277,
       "builderBaseTrophies": 2670,
       "clanRank": 27,
       "previousClanRank": 27,
@@ -1558,7 +1558,7 @@
       "name": "Amaterasu",
       "role": "coLeader",
       "townHallLevel": 15,
-      "expLevel": 181,
+      "expLevel": 182,
       "league": {
         "id": 29000000,
         "name": "Unranked",
