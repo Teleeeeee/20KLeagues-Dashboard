@@ -1200,13 +1200,13 @@
       "atq_p0s": 0.0,
       "atq_miss": 0,
       "atq_pmiss": 0,
-      "def_count": 7,
-      "def_avg_th": 16.29,
-      "def_avg_stars": 2.8571,
+      "def_count": 8,
+      "def_avg_th": 16.25,
+      "def_avg_stars": 2.75,
       "def_3s": 6,
-      "def_p3s": 85.71,
-      "def_2s": 1,
-      "def_p2s": 14.29,
+      "def_p3s": 75.0,
+      "def_2s": 2,
+      "def_p2s": 25.0,
       "def_1s": 0,
       "def_p1s": 0.0,
       "def_0s": 0,
@@ -2522,13 +2522,13 @@
       "atq_p0s": 0.0,
       "atq_miss": 0,
       "atq_pmiss": 0,
-      "def_count": 7,
-      "def_avg_th": 16.29,
-      "def_avg_stars": 2.8571,
+      "def_count": 8,
+      "def_avg_th": 16.25,
+      "def_avg_stars": 2.75,
       "def_3s": 6,
-      "def_p3s": 85.71,
-      "def_2s": 1,
-      "def_p2s": 14.29,
+      "def_p3s": 75.0,
+      "def_2s": 2,
+      "def_p2s": 25.0,
       "def_1s": 0,
       "def_p1s": 0.0,
       "def_0s": 0,
@@ -3741,18 +3741,18 @@
       "estrellas_guerra": null
     },
     {
-      "tag": "#GLGLG92RR",
-      "nick": "Manuel",
-      "th": 16,
-      "rol": "member",
-      "rango": 9,
-      "estrellas_guerra": null
-    },
-    {
       "tag": "#9YPLUQ9GV",
       "nick": "muset",
       "th": 16,
       "rol": "admin",
+      "rango": 9,
+      "estrellas_guerra": null
+    },
+    {
+      "tag": "#GLGLG92RR",
+      "nick": "Manuel",
+      "th": 16,
+      "rol": "member",
       "rango": 10,
       "estrellas_guerra": null
     },
@@ -3781,16 +3781,16 @@
       "estrellas_guerra": null
     },
     {
-      "tag": "#Q2Q2CCGLR",
-      "nick": "Drake23",
+      "tag": "#8YY2PG88Y",
+      "nick": "Lluvia⚡",
       "th": 16,
       "rol": "member",
       "rango": 14,
       "estrellas_guerra": null
     },
     {
-      "tag": "#8YY2PG88Y",
-      "nick": "Lluvia⚡",
+      "tag": "#Q2Q2CCGLR",
+      "nick": "Drake23",
       "th": 16,
       "rol": "member",
       "rango": 15,
@@ -3869,17 +3869,17 @@
       "estrellas_guerra": null
     },
     {
-      "tag": "#LVULGPQ9",
-      "nick": "L&ST&R",
-      "th": 15,
+      "tag": "#GY98CYLPP",
+      "nick": "BRAYAN×_×",
+      "th": 16,
       "rol": "member",
       "rango": 25,
       "estrellas_guerra": null
     },
     {
-      "tag": "#GY98CYLPP",
-      "nick": "BRAYAN×_×",
-      "th": 16,
+      "tag": "#LVULGPQ9",
+      "nick": "L&ST&R",
+      "th": 15,
       "rol": "member",
       "rango": 26,
       "estrellas_guerra": null
@@ -4574,7 +4574,7 @@
   "meta": {
     "clanTag": "#2VJ2LPY8",
     "clanName": "20,000 Leagues",
-    "lastUpdated": "2026-10-08 07:08 UTC",
+    "lastUpdated": "2026-10-08 14:48 UTC",
     "historyStart": "2026-09-22",
     "source": "Clash of Clans API (oficial) vía cocproxy.royaleapi.dev"
   }
