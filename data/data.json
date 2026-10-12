@@ -3501,11 +3501,19 @@
       "estrellas_guerra": null
     },
     {
+      "tag": "#Q2Q2CCGLR",
+      "nick": "Drake23",
+      "th": 16,
+      "rol": "member",
+      "rango": 9,
+      "estrellas_guerra": null
+    },
+    {
       "tag": "#228UCYYQC",
       "nick": "Anthony",
       "th": 17,
       "rol": "member",
-      "rango": 9,
+      "rango": 10,
       "estrellas_guerra": null
     },
     {
@@ -3513,20 +3521,12 @@
       "nick": "pachiche123",
       "th": 15,
       "rol": "member",
-      "rango": 10,
+      "rango": 11,
       "estrellas_guerra": null
     },
     {
       "tag": "#GLGLG92RR",
       "nick": "Manuel",
-      "th": 16,
-      "rol": "member",
-      "rango": 11,
-      "estrellas_guerra": null
-    },
-    {
-      "tag": "#Q2Q2CCGLR",
-      "nick": "Drake23",
       "th": 16,
       "rol": "member",
       "rango": 12,
@@ -3629,17 +3629,17 @@
       "estrellas_guerra": null
     },
     {
-      "tag": "#LG9VGRLG2",
-      "nick": "ADNHDZ94",
-      "th": 16,
+      "tag": "#LVULGPQ9",
+      "nick": "L&ST&R",
+      "th": 15,
       "rol": "member",
       "rango": 25,
       "estrellas_guerra": null
     },
     {
-      "tag": "#LVULGPQ9",
-      "nick": "L&ST&R",
-      "th": 15,
+      "tag": "#LG9VGRLG2",
+      "nick": "ADNHDZ94",
+      "th": 16,
       "rol": "member",
       "rango": 26,
       "estrellas_guerra": null
@@ -3677,18 +3677,18 @@
       "estrellas_guerra": null
     },
     {
-      "tag": "#829LU2P28",
-      "nick": "Amaterasu",
-      "th": 15,
-      "rol": "coLeader",
-      "rango": 31,
-      "estrellas_guerra": null
-    },
-    {
       "tag": "#YCUCG800C",
       "nick": "Joeseph",
       "th": 15,
       "rol": "member",
+      "rango": 31,
+      "estrellas_guerra": null
+    },
+    {
+      "tag": "#829LU2P28",
+      "nick": "Amaterasu",
+      "th": 15,
+      "rol": "coLeader",
       "rango": 32,
       "estrellas_guerra": null
     },
@@ -4310,7 +4310,7 @@
   "meta": {
     "clanTag": "#2VJ2LPY8",
     "clanName": "20,000 Leagues",
-    "lastUpdated": "2026-10-12 08:52 UTC",
+    "lastUpdated": "2026-10-12 18:47 UTC",
     "historyStart": "2026-09-22",
     "source": "Clash of Clans API (oficial) vía cocproxy.royaleapi.dev"
   }
