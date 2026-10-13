@@ -3469,18 +3469,18 @@
       "estrellas_guerra": null
     },
     {
-      "tag": "#90QL28VV",
-      "nick": "Laza",
-      "th": 17,
-      "rol": "coLeader",
-      "rango": 5,
-      "estrellas_guerra": null
-    },
-    {
       "tag": "#GPGP9QQ8U",
       "nick": "Ragnar",
       "th": 18,
       "rol": "member",
+      "rango": 5,
+      "estrellas_guerra": null
+    },
+    {
+      "tag": "#90QL28VV",
+      "nick": "Laza",
+      "th": 17,
+      "rol": "coLeader",
       "rango": 6,
       "estrellas_guerra": null
     },
@@ -3501,11 +3501,19 @@
       "estrellas_guerra": null
     },
     {
+      "tag": "#9YPLUQ9GV",
+      "nick": "muset",
+      "th": 16,
+      "rol": "admin",
+      "rango": 9,
+      "estrellas_guerra": null
+    },
+    {
       "tag": "#Q2Q2CCGLR",
       "nick": "Drake23",
       "th": 17,
       "rol": "member",
-      "rango": 9,
+      "rango": 10,
       "estrellas_guerra": null
     },
     {
@@ -3513,14 +3521,6 @@
       "nick": "Lluvia⚡",
       "th": 16,
       "rol": "member",
-      "rango": 10,
-      "estrellas_guerra": null
-    },
-    {
-      "tag": "#9YPLUQ9GV",
-      "nick": "muset",
-      "th": 16,
-      "rol": "admin",
       "rango": 11,
       "estrellas_guerra": null
     },
@@ -4310,7 +4310,7 @@
   "meta": {
     "clanTag": "#2VJ2LPY8",
     "clanName": "20,000 Leagues",
-    "lastUpdated": "2026-10-13 01:10 UTC",
+    "lastUpdated": "2026-10-13 08:15 UTC",
     "historyStart": "2026-09-22",
     "source": "Clash of Clans API (oficial) vía cocproxy.royaleapi.dev"
   }
