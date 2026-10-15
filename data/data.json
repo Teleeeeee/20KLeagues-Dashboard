@@ -3501,18 +3501,18 @@
       "estrellas_guerra": null
     },
     {
-      "tag": "#Q2Q2CCGLR",
-      "nick": "Drake23",
-      "th": 17,
-      "rol": "member",
-      "rango": 9,
-      "estrellas_guerra": null
-    },
-    {
       "tag": "#9YPLUQ9GV",
       "nick": "muset",
       "th": 16,
       "rol": "admin",
+      "rango": 9,
+      "estrellas_guerra": null
+    },
+    {
+      "tag": "#Q2Q2CCGLR",
+      "nick": "Drake23",
+      "th": 17,
+      "rol": "member",
       "rango": 10,
       "estrellas_guerra": null
     },
@@ -3533,17 +3533,17 @@
       "estrellas_guerra": null
     },
     {
-      "tag": "#GLGLG92RR",
-      "nick": "Manuel",
-      "th": 16,
+      "tag": "#228UCYYQC",
+      "nick": "Anthony",
+      "th": 17,
       "rol": "member",
       "rango": 13,
       "estrellas_guerra": null
     },
     {
-      "tag": "#228UCYYQC",
-      "nick": "Anthony",
-      "th": 17,
+      "tag": "#GLGLG92RR",
+      "nick": "Manuel",
+      "th": 16,
       "rol": "member",
       "rango": 14,
       "estrellas_guerra": null
@@ -4310,7 +4310,7 @@
   "meta": {
     "clanTag": "#2VJ2LPY8",
     "clanName": "20,000 Leagues",
-    "lastUpdated": "2026-10-15 09:04 UTC",
+    "lastUpdated": "2026-10-15 14:19 UTC",
     "historyStart": "2026-09-22",
     "source": "Clash of Clans API (oficial) vía cocproxy.royaleapi.dev"
   }
