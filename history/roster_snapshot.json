@@ -1,7 +1,7 @@
 {
   "clan_name": "20,000 Leagues",
   "clan_tag": "#2VJ2LPY8",
-  "fetched_at": "2026-10-16T15:27:47.030242+00:00",
+  "fetched_at": "2026-10-16T18:57:31.118986+00:00",
   "members": [
     {
       "tag": "#8VPQY29Y0",
@@ -184,12 +184,12 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png"
         }
       },
-      "trophies": 334,
+      "trophies": 390,
       "builderBaseTrophies": 3166,
       "clanRank": 4,
       "previousClanRank": 4,
-      "donations": 2605,
-      "donationsReceived": 2976,
+      "donations": 2658,
+      "donationsReceived": 3152,
       "playerHouse": {
         "elements": [
           {
@@ -241,7 +241,7 @@
       "builderBaseTrophies": 4523,
       "clanRank": 5,
       "previousClanRank": 6,
-      "donations": 2393,
+      "donations": 2481,
       "donationsReceived": 1904,
       "playerHouse": {
         "elements": [
@@ -326,7 +326,7 @@
       "name": "Gabo",
       "role": "coLeader",
       "townHallLevel": 16,
-      "expLevel": 203,
+      "expLevel": 204,
       "league": {
         "id": 29000000,
         "name": "Unranked",
@@ -343,11 +343,11 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png"
         }
       },
-      "trophies": 106,
+      "trophies": 146,
       "builderBaseTrophies": 2537,
       "clanRank": 7,
       "previousClanRank": 7,
-      "donations": 3199,
+      "donations": 3287,
       "donationsReceived": 1937,
       "playerHouse": {
         "elements": [
@@ -450,7 +450,7 @@
         }
       },
       "trophies": 617,
-      "builderBaseTrophies": 3519,
+      "builderBaseTrophies": 3527,
       "clanRank": 9,
       "previousClanRank": 9,
       "donations": 671,
@@ -873,7 +873,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/YCZ7O_3_c8eCBYvX-92qiWeLc6Md6eNJ5A8O-2vUg7I.png"
         }
       },
-      "trophies": 111,
+      "trophies": 124,
       "builderBaseTrophies": 3138,
       "clanRank": 17,
       "previousClanRank": 17,
@@ -1033,7 +1033,7 @@
         }
       },
       "trophies": 446,
-      "builderBaseTrophies": 3175,
+      "builderBaseTrophies": 3185,
       "clanRank": 20,
       "previousClanRank": 21,
       "donations": 0,
@@ -1086,7 +1086,7 @@
         }
       },
       "trophies": 327,
-      "builderBaseTrophies": 3119,
+      "builderBaseTrophies": 3158,
       "clanRank": 21,
       "previousClanRank": 22,
       "donations": 58,
@@ -1770,7 +1770,7 @@
       "name": "Guerrero Seb.",
       "role": "member",
       "townHallLevel": 12,
-      "expLevel": 149,
+      "expLevel": 150,
       "league": {
         "id": 29000000,
         "name": "Unranked",
