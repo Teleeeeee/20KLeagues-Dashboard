@@ -1,7 +1,7 @@
 {
   "clan_name": "20,000 Leagues",
   "clan_tag": "#2VJ2LPY8",
-  "fetched_at": "2026-10-16T05:37:42.155852+00:00",
+  "fetched_at": "2026-10-16T11:01:50.528489+00:00",
   "members": [
     {
       "tag": "#8VPQY29Y0",
@@ -188,8 +188,8 @@
       "builderBaseTrophies": 3166,
       "clanRank": 4,
       "previousClanRank": 4,
-      "donations": 2500,
-      "donationsReceived": 2770,
+      "donations": 2550,
+      "donationsReceived": 2888,
       "playerHouse": {
         "elements": [
           {
@@ -237,7 +237,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png"
         }
       },
-      "trophies": 593,
+      "trophies": 613,
       "builderBaseTrophies": 4523,
       "clanRank": 5,
       "previousClanRank": 6,
@@ -343,12 +343,12 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png"
         }
       },
-      "trophies": 66,
+      "trophies": 106,
       "builderBaseTrophies": 2537,
       "clanRank": 7,
       "previousClanRank": 7,
-      "donations": 2993,
-      "donationsReceived": 1774,
+      "donations": 3111,
+      "donationsReceived": 1824,
       "playerHouse": {
         "elements": [
           {
@@ -452,7 +452,7 @@
       "trophies": 617,
       "builderBaseTrophies": 3485,
       "clanRank": 9,
-      "previousClanRank": 10,
+      "previousClanRank": 9,
       "donations": 671,
       "donationsReceived": 2237,
       "playerHouse": {
@@ -502,10 +502,10 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/DIMeRH3N4lrNObA3zAmk_eUin8nvNeLR89qYznnA--s.png"
         }
       },
-      "trophies": 583,
+      "trophies": 592,
       "builderBaseTrophies": 3182,
       "clanRank": 10,
-      "previousClanRank": 9,
+      "previousClanRank": 10,
       "donations": 851,
       "donationsReceived": 163,
       "playerHouse": {
@@ -555,7 +555,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/DIMeRH3N4lrNObA3zAmk_eUin8nvNeLR89qYznnA--s.png"
         }
       },
-      "trophies": 543,
+      "trophies": 569,
       "builderBaseTrophies": 2998,
       "clanRank": 11,
       "previousClanRank": 11,
@@ -611,7 +611,7 @@
       "trophies": 506,
       "builderBaseTrophies": 3284,
       "clanRank": 12,
-      "previousClanRank": 15,
+      "previousClanRank": 14,
       "donations": 138,
       "donationsReceived": 1213,
       "playerHouse": {
@@ -717,7 +717,7 @@
       "trophies": 400,
       "builderBaseTrophies": 3918,
       "clanRank": 14,
-      "previousClanRank": 14,
+      "previousClanRank": 13,
       "donations": 318,
       "donationsReceived": 0,
       "playerHouse": {
@@ -767,10 +767,10 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/DIMeRH3N4lrNObA3zAmk_eUin8nvNeLR89qYznnA--s.png"
         }
       },
-      "trophies": 384,
+      "trophies": 395,
       "builderBaseTrophies": 2970,
       "clanRank": 15,
-      "previousClanRank": 13,
+      "previousClanRank": 15,
       "donations": 311,
       "donationsReceived": 83,
       "playerHouse": {
@@ -820,7 +820,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/DIMeRH3N4lrNObA3zAmk_eUin8nvNeLR89qYznnA--s.png"
         }
       },
-      "trophies": 52,
+      "trophies": 68,
       "builderBaseTrophies": 3054,
       "clanRank": 16,
       "previousClanRank": 16,
@@ -1416,7 +1416,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/uizNRh8glQZuAbLdCa-EQSf3oJnge3nqoXHjtQ6O8pw.png"
         }
       },
-      "trophies": 223,
+      "trophies": 263,
       "builderBaseTrophies": 2375,
       "clanRank": 28,
       "previousClanRank": 28,
@@ -1426,15 +1426,15 @@
         "elements": [
           {
             "type": "ground",
-            "id": 82000000
+            "id": 82000004
           },
           {
             "type": "walls",
-            "id": 82000052
+            "id": 82000049
           },
           {
             "type": "roof",
-            "id": 82000023
+            "id": 82000037
           },
           {
             "type": "decoration",
