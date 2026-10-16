@@ -1,7 +1,7 @@
 {
   "clan_name": "20,000 Leagues",
   "clan_tag": "#2VJ2LPY8",
-  "fetched_at": "2026-10-16T18:57:31.118986+00:00",
+  "fetched_at": "2026-10-16T21:59:34.880023+00:00",
   "members": [
     {
       "tag": "#8VPQY29Y0",
@@ -240,8 +240,8 @@
       "trophies": 613,
       "builderBaseTrophies": 4523,
       "clanRank": 5,
-      "previousClanRank": 6,
-      "donations": 2481,
+      "previousClanRank": 5,
+      "donations": 2594,
       "donationsReceived": 1904,
       "playerHouse": {
         "elements": [
@@ -290,10 +290,10 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png"
         }
       },
-      "trophies": 602,
+      "trophies": 610,
       "builderBaseTrophies": 2412,
       "clanRank": 6,
-      "previousClanRank": 5,
+      "previousClanRank": 6,
       "donations": 799,
       "donationsReceived": 1084,
       "playerHouse": {
@@ -396,7 +396,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png"
         }
       },
-      "trophies": 578,
+      "trophies": 590,
       "builderBaseTrophies": 2994,
       "clanRank": 8,
       "previousClanRank": 8,
@@ -611,7 +611,7 @@
       "trophies": 506,
       "builderBaseTrophies": 3284,
       "clanRank": 12,
-      "previousClanRank": 14,
+      "previousClanRank": 12,
       "donations": 138,
       "donationsReceived": 1213,
       "playerHouse": {
@@ -664,7 +664,7 @@
       "trophies": 478,
       "builderBaseTrophies": 3387,
       "clanRank": 13,
-      "previousClanRank": 12,
+      "previousClanRank": 13,
       "donations": 107,
       "donationsReceived": 0,
       "playerHouse": {
@@ -717,7 +717,7 @@
       "trophies": 400,
       "builderBaseTrophies": 3918,
       "clanRank": 14,
-      "previousClanRank": 13,
+      "previousClanRank": 14,
       "donations": 318,
       "donationsReceived": 0,
       "playerHouse": {
@@ -1302,7 +1302,7 @@
       "clanRank": 25,
       "previousClanRank": 26,
       "donations": 542,
-      "donationsReceived": 731,
+      "donationsReceived": 844,
       "builderBaseLeague": {
         "id": 44000024,
         "name": "Iron League II"
