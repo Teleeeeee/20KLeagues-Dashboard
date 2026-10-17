@@ -1,7 +1,7 @@
 {
   "clan_name": "20,000 Leagues",
   "clan_tag": "#2VJ2LPY8",
-  "fetched_at": "2026-10-17T13:06:43.944054+00:00",
+  "fetched_at": "2026-10-17T16:36:12.054828+00:00",
   "members": [
     {
       "tag": "#8VPQY29Y0",
@@ -29,7 +29,7 @@
       "builderBaseTrophies": 3170,
       "clanRank": 1,
       "previousClanRank": 1,
-      "donations": 2191,
+      "donations": 2194,
       "donationsReceived": 819,
       "playerHouse": {
         "elements": [
@@ -188,7 +188,7 @@
       "builderBaseTrophies": 3166,
       "clanRank": 4,
       "previousClanRank": 4,
-      "donations": 2658,
+      "donations": 2741,
       "donationsReceived": 3152,
       "playerHouse": {
         "elements": [
@@ -216,59 +216,6 @@
       }
     },
     {
-      "tag": "#90QL28VV",
-      "name": "Laza",
-      "role": "coLeader",
-      "townHallLevel": 17,
-      "expLevel": 207,
-      "league": {
-        "id": 29000000,
-        "name": "Unranked",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
-        }
-      },
-      "leagueTier": {
-        "id": 105000031,
-        "name": "Electro League 31",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leaguetiers/125/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png",
-          "large": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png"
-        }
-      },
-      "trophies": 613,
-      "builderBaseTrophies": 4523,
-      "clanRank": 5,
-      "previousClanRank": 5,
-      "donations": 2646,
-      "donationsReceived": 1904,
-      "playerHouse": {
-        "elements": [
-          {
-            "type": "ground",
-            "id": 82000154
-          },
-          {
-            "type": "walls",
-            "id": 82000155
-          },
-          {
-            "type": "roof",
-            "id": 82000157
-          },
-          {
-            "type": "decoration",
-            "id": 82000156
-          }
-        ]
-      },
-      "builderBaseLeague": {
-        "id": 44000032,
-        "name": "Platinum League III"
-      }
-    },
-    {
       "tag": "#GPGP9QQ8U",
       "name": "Ragnar",
       "role": "member",
@@ -290,9 +237,9 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png"
         }
       },
-      "trophies": 610,
+      "trophies": 650,
       "builderBaseTrophies": 2412,
-      "clanRank": 6,
+      "clanRank": 5,
       "previousClanRank": 6,
       "donations": 799,
       "donationsReceived": 1084,
@@ -322,6 +269,59 @@
       }
     },
     {
+      "tag": "#90QL28VV",
+      "name": "Laza",
+      "role": "coLeader",
+      "townHallLevel": 17,
+      "expLevel": 207,
+      "league": {
+        "id": 29000000,
+        "name": "Unranked",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000031,
+        "name": "Electro League 31",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leaguetiers/125/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png",
+          "large": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png"
+        }
+      },
+      "trophies": 613,
+      "builderBaseTrophies": 4627,
+      "clanRank": 6,
+      "previousClanRank": 5,
+      "donations": 2646,
+      "donationsReceived": 1992,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000154
+          },
+          {
+            "type": "walls",
+            "id": 82000155
+          },
+          {
+            "type": "roof",
+            "id": 82000157
+          },
+          {
+            "type": "decoration",
+            "id": 82000156
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000033,
+        "name": "Platinum League II"
+      }
+    },
+    {
       "tag": "#2PLU0C92P",
       "name": "Gabo",
       "role": "coLeader",
@@ -348,7 +348,7 @@
       "clanRank": 7,
       "previousClanRank": 7,
       "donations": 3287,
-      "donationsReceived": 1937,
+      "donationsReceived": 2020,
       "playerHouse": {
         "elements": [
           {
@@ -454,7 +454,7 @@
       "clanRank": 9,
       "previousClanRank": 9,
       "donations": 731,
-      "donationsReceived": 2290,
+      "donationsReceived": 2343,
       "playerHouse": {
         "elements": [
           {
@@ -559,7 +559,7 @@
       "builderBaseTrophies": 3219,
       "clanRank": 11,
       "previousClanRank": 10,
-      "donations": 851,
+      "donations": 886,
       "donationsReceived": 163,
       "playerHouse": {
         "elements": [
@@ -612,7 +612,7 @@
       "builderBaseTrophies": 2998,
       "clanRank": 12,
       "previousClanRank": 11,
-      "donations": 422,
+      "donations": 448,
       "donationsReceived": 769,
       "playerHouse": {
         "elements": [
@@ -821,10 +821,10 @@
         }
       },
       "trophies": 68,
-      "builderBaseTrophies": 3095,
+      "builderBaseTrophies": 3161,
       "clanRank": 16,
       "previousClanRank": 16,
-      "donations": 547,
+      "donations": 624,
       "donationsReceived": 947,
       "playerHouse": {
         "elements": [
@@ -1086,7 +1086,7 @@
         }
       },
       "trophies": 327,
-      "builderBaseTrophies": 3171,
+      "builderBaseTrophies": 3133,
       "clanRank": 21,
       "previousClanRank": 21,
       "donations": 58,
@@ -1330,7 +1330,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/WkqDvnK0CXI-Nc0TNTKG_fSuzRYoLRC54HFOdMCxVTI.png"
         }
       },
-      "trophies": 26,
+      "trophies": 297,
       "builderBaseTrophies": 2700,
       "clanRank": 26,
       "previousClanRank": 26,
@@ -1469,7 +1469,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/yS8XBv_a_SNtCpcofsWMFaojRNwO504Py7HyDCBCjYU.png"
         }
       },
-      "trophies": 386,
+      "trophies": 395,
       "builderBaseTrophies": 2609,
       "clanRank": 29,
       "previousClanRank": 29,
