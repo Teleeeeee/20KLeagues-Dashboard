@@ -1,7 +1,7 @@
 {
   "clan_name": "20,000 Leagues",
   "clan_tag": "#2VJ2LPY8",
-  "fetched_at": "2026-10-17T04:52:17.565077+00:00",
+  "fetched_at": "2026-10-17T09:05:33.918789+00:00",
   "members": [
     {
       "tag": "#8VPQY29Y0",
@@ -184,7 +184,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png"
         }
       },
-      "trophies": 390,
+      "trophies": 406,
       "builderBaseTrophies": 3166,
       "clanRank": 4,
       "previousClanRank": 4,
@@ -821,7 +821,7 @@
         }
       },
       "trophies": 68,
-      "builderBaseTrophies": 3054,
+      "builderBaseTrophies": 3095,
       "clanRank": 16,
       "previousClanRank": 16,
       "donations": 547,
@@ -1015,7 +1015,7 @@
       "name": "JoseCarlos4",
       "role": "member",
       "townHallLevel": 15,
-      "expLevel": 203,
+      "expLevel": 204,
       "league": {
         "id": 29000000,
         "name": "Unranked",
