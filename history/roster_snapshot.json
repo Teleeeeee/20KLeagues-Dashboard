@@ -1,7 +1,7 @@
 {
   "clan_name": "20,000 Leagues",
   "clan_tag": "#2VJ2LPY8",
-  "fetched_at": "2026-10-18T08:43:17.004232+00:00",
+  "fetched_at": "2026-10-18T13:05:37.438882+00:00",
   "members": [
     {
       "tag": "#8VPQY29Y0",
@@ -78,7 +78,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png"
         }
       },
-      "trophies": 575,
+      "trophies": 586,
       "builderBaseTrophies": 3170,
       "clanRank": 2,
       "previousClanRank": 2,
@@ -240,7 +240,7 @@
       "trophies": 650,
       "builderBaseTrophies": 2412,
       "clanRank": 5,
-      "previousClanRank": 6,
+      "previousClanRank": 5,
       "donations": 799,
       "donationsReceived": 1084,
       "playerHouse": {
@@ -290,10 +290,10 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png"
         }
       },
-      "trophies": 613,
+      "trophies": 621,
       "builderBaseTrophies": 4627,
       "clanRank": 6,
-      "previousClanRank": 5,
+      "previousClanRank": 6,
       "donations": 2673,
       "donationsReceived": 1992,
       "playerHouse": {
@@ -428,59 +428,6 @@
       }
     },
     {
-      "tag": "#YY9J2JJYC",
-      "name": "Matikun",
-      "role": "admin",
-      "townHallLevel": 16,
-      "expLevel": 213,
-      "league": {
-        "id": 29000000,
-        "name": "Unranked",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
-        }
-      },
-      "leagueTier": {
-        "id": 105000029,
-        "name": "Dragon League 29",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leaguetiers/125/DIMeRH3N4lrNObA3zAmk_eUin8nvNeLR89qYznnA--s.png",
-          "large": "https://api-assets.clashofclans.com/leaguetiers/326/DIMeRH3N4lrNObA3zAmk_eUin8nvNeLR89qYznnA--s.png"
-        }
-      },
-      "trophies": 621,
-      "builderBaseTrophies": 3284,
-      "clanRank": 9,
-      "previousClanRank": 11,
-      "donations": 165,
-      "donationsReceived": 1319,
-      "playerHouse": {
-        "elements": [
-          {
-            "type": "ground",
-            "id": 82000000
-          },
-          {
-            "type": "walls",
-            "id": 82000048
-          },
-          {
-            "type": "roof",
-            "id": 82000017
-          },
-          {
-            "type": "decoration",
-            "id": 82000058
-          }
-        ]
-      },
-      "builderBaseLeague": {
-        "id": 44000026,
-        "name": "Steel League III"
-      }
-    },
-    {
       "tag": "#9YPLUQ9GV",
       "name": "muset",
       "role": "admin",
@@ -502,10 +449,10 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/DIMeRH3N4lrNObA3zAmk_eUin8nvNeLR89qYznnA--s.png"
         }
       },
-      "trophies": 617,
+      "trophies": 628,
       "builderBaseTrophies": 3514,
-      "clanRank": 10,
-      "previousClanRank": 9,
+      "clanRank": 9,
+      "previousClanRank": 10,
       "donations": 731,
       "donationsReceived": 2479,
       "playerHouse": {
@@ -531,6 +478,59 @@
       "builderBaseLeague": {
         "id": 44000027,
         "name": "Steel League II"
+      }
+    },
+    {
+      "tag": "#YY9J2JJYC",
+      "name": "Matikun",
+      "role": "admin",
+      "townHallLevel": 16,
+      "expLevel": 213,
+      "league": {
+        "id": 29000000,
+        "name": "Unranked",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000029,
+        "name": "Dragon League 29",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leaguetiers/125/DIMeRH3N4lrNObA3zAmk_eUin8nvNeLR89qYznnA--s.png",
+          "large": "https://api-assets.clashofclans.com/leaguetiers/326/DIMeRH3N4lrNObA3zAmk_eUin8nvNeLR89qYznnA--s.png"
+        }
+      },
+      "trophies": 621,
+      "builderBaseTrophies": 3284,
+      "clanRank": 10,
+      "previousClanRank": 9,
+      "donations": 165,
+      "donationsReceived": 1319,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000000
+          },
+          {
+            "type": "walls",
+            "id": 82000048
+          },
+          {
+            "type": "roof",
+            "id": 82000017
+          },
+          {
+            "type": "decoration",
+            "id": 82000058
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000026,
+        "name": "Steel League III"
       }
     },
     {
@@ -611,7 +611,7 @@
       "trophies": 592,
       "builderBaseTrophies": 3219,
       "clanRank": 12,
-      "previousClanRank": 10,
+      "previousClanRank": 11,
       "donations": 886,
       "donationsReceived": 163,
       "playerHouse": {
@@ -803,7 +803,7 @@
       "name": "-actiived-",
       "role": "member",
       "townHallLevel": 16,
-      "expLevel": 205,
+      "expLevel": 206,
       "league": {
         "id": 29000000,
         "name": "Unranked",
@@ -820,7 +820,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/DIMeRH3N4lrNObA3zAmk_eUin8nvNeLR89qYznnA--s.png"
         }
       },
-      "trophies": 84,
+      "trophies": 320,
       "builderBaseTrophies": 3161,
       "clanRank": 16,
       "previousClanRank": 16,
@@ -1681,7 +1681,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/3mEMvpajLceJ3EKu7u_JIh_cOEsT7wyh701zum9hqCY.png"
         }
       },
-      "trophies": 320,
+      "trophies": 360,
       "builderBaseTrophies": 2848,
       "clanRank": 33,
       "previousClanRank": 33,
@@ -1929,7 +1929,7 @@
       "name": "メデーLluv-Unreal",
       "role": "member",
       "townHallLevel": 11,
-      "expLevel": 89,
+      "expLevel": 90,
       "league": {
         "id": 29000000,
         "name": "Unranked",
@@ -1946,7 +1946,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/XazuJHG2wjBq39KEA4g4hh1nKJQwVO0fRoVDPHvWwAY.png"
         }
       },
-      "trophies": 227,
+      "trophies": 240,
       "builderBaseTrophies": 0,
       "clanRank": 38,
       "previousClanRank": 38,
