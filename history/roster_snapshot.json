@@ -1,7 +1,7 @@
 {
   "clan_name": "20,000 Leagues",
   "clan_tag": "#2VJ2LPY8",
-  "fetched_at": "2026-10-17T23:52:30.315644+00:00",
+  "fetched_at": "2026-10-18T03:49:45.139460+00:00",
   "members": [
     {
       "tag": "#8VPQY29Y0",
@@ -188,8 +188,8 @@
       "builderBaseTrophies": 3166,
       "clanRank": 4,
       "previousClanRank": 4,
-      "donations": 2741,
-      "donationsReceived": 3152,
+      "donations": 2824,
+      "donationsReceived": 3358,
       "playerHouse": {
         "elements": [
           {
@@ -347,8 +347,8 @@
       "builderBaseTrophies": 2537,
       "clanRank": 7,
       "previousClanRank": 7,
-      "donations": 3432,
-      "donationsReceived": 2103,
+      "donations": 3578,
+      "donationsReceived": 2186,
       "playerHouse": {
         "elements": [
           {
@@ -396,7 +396,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png"
         }
       },
-      "trophies": 604,
+      "trophies": 627,
       "builderBaseTrophies": 2994,
       "clanRank": 8,
       "previousClanRank": 8,
@@ -453,7 +453,7 @@
       "builderBaseTrophies": 3284,
       "clanRank": 9,
       "previousClanRank": 11,
-      "donations": 138,
+      "donations": 165,
       "donationsReceived": 1319,
       "playerHouse": {
         "elements": [
@@ -507,7 +507,7 @@
       "clanRank": 10,
       "previousClanRank": 9,
       "donations": 731,
-      "donationsReceived": 2426,
+      "donationsReceived": 2479,
       "playerHouse": {
         "elements": [
           {
@@ -771,7 +771,7 @@
       "builderBaseTrophies": 2970,
       "clanRank": 15,
       "previousClanRank": 15,
-      "donations": 311,
+      "donations": 337,
       "donationsReceived": 83,
       "playerHouse": {
         "elements": [
@@ -930,7 +930,7 @@
       "builderBaseTrophies": 2744,
       "clanRank": 18,
       "previousClanRank": 18,
-      "donations": 182,
+      "donations": 242,
       "donationsReceived": 1751,
       "playerHouse": {
         "elements": [
@@ -979,7 +979,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/1AhObOl55grQIWnGmn1J9qMWq5pmRA3aBObfYkQEjko.png"
         }
       },
-      "trophies": 130,
+      "trophies": 152,
       "builderBaseTrophies": 2799,
       "clanRank": 19,
       "previousClanRank": 19,
@@ -1399,7 +1399,7 @@
       "name": "Tooff",
       "role": "admin",
       "townHallLevel": 15,
-      "expLevel": 129,
+      "expLevel": 130,
       "league": {
         "id": 29000000,
         "name": "Unranked",
