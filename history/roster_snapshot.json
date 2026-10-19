@@ -1,7 +1,7 @@
 {
   "clan_name": "20,000 Leagues",
   "clan_tag": "#2VJ2LPY8",
-  "fetched_at": "2026-10-19T10:13:12.240059+00:00",
+  "fetched_at": "2026-10-19T17:06:27.633256+00:00",
   "members": [
     {
       "tag": "#8VPQY29Y0",
@@ -188,7 +188,7 @@
       "builderBaseTrophies": 3166,
       "clanRank": 4,
       "previousClanRank": 4,
-      "donations": 2872,
+      "donations": 2932,
       "donationsReceived": 3358,
       "playerHouse": {
         "elements": [
@@ -241,7 +241,7 @@
       "builderBaseTrophies": 4626,
       "clanRank": 5,
       "previousClanRank": 6,
-      "donations": 2821,
+      "donations": 2865,
       "donationsReceived": 2134,
       "playerHouse": {
         "elements": [
@@ -273,7 +273,7 @@
       "name": "Ragnar",
       "role": "member",
       "townHallLevel": 18,
-      "expLevel": 209,
+      "expLevel": 210,
       "league": {
         "id": 29000000,
         "name": "Unranked",
@@ -294,7 +294,7 @@
       "builderBaseTrophies": 2412,
       "clanRank": 6,
       "previousClanRank": 5,
-      "donations": 869,
+      "donations": 924,
       "donationsReceived": 1084,
       "playerHouse": {
         "elements": [
@@ -452,9 +452,9 @@
       "trophies": 0,
       "builderBaseTrophies": 3284,
       "clanRank": 9,
-      "previousClanRank": 9,
+      "previousClanRank": 10,
       "donations": 165,
-      "donationsReceived": 1319,
+      "donationsReceived": 1372,
       "playerHouse": {
         "elements": [
           {
@@ -611,9 +611,9 @@
       "trophies": 0,
       "builderBaseTrophies": 3514,
       "clanRank": 12,
-      "previousClanRank": 10,
-      "donations": 731,
-      "donationsReceived": 2529,
+      "previousClanRank": 9,
+      "donations": 822,
+      "donationsReceived": 2682,
       "playerHouse": {
         "elements": [
           {
@@ -626,7 +626,7 @@
           },
           {
             "type": "roof",
-            "id": 82000032
+            "id": 82000036
           },
           {
             "type": "decoration",
@@ -664,7 +664,7 @@
       "trophies": 0,
       "builderBaseTrophies": 3971,
       "clanRank": 13,
-      "previousClanRank": 14,
+      "previousClanRank": 15,
       "donations": 378,
       "donationsReceived": 0,
       "playerHouse": {
@@ -719,7 +719,7 @@
       "clanRank": 14,
       "previousClanRank": 13,
       "donations": 107,
-      "donationsReceived": 0,
+      "donationsReceived": 83,
       "playerHouse": {
         "elements": [
           {
@@ -770,8 +770,8 @@
       "trophies": 0,
       "builderBaseTrophies": 2970,
       "clanRank": 15,
-      "previousClanRank": 15,
-      "donations": 337,
+      "previousClanRank": 16,
+      "donations": 339,
       "donationsReceived": 83,
       "playerHouse": {
         "elements": [
@@ -823,7 +823,7 @@
       "trophies": 0,
       "builderBaseTrophies": 3161,
       "clanRank": 16,
-      "previousClanRank": 16,
+      "previousClanRank": 14,
       "donations": 696,
       "donationsReceived": 1030,
       "playerHouse": {
@@ -877,7 +877,7 @@
       "builderBaseTrophies": 2744,
       "clanRank": 17,
       "previousClanRank": 18,
-      "donations": 242,
+      "donations": 285,
       "donationsReceived": 1751,
       "playerHouse": {
         "elements": [
@@ -930,8 +930,8 @@
       "builderBaseTrophies": 3138,
       "clanRank": 18,
       "previousClanRank": 17,
-      "donations": 50,
-      "donationsReceived": 278,
+      "donations": 103,
+      "donationsReceived": 354,
       "playerHouse": {
         "elements": [
           {
@@ -983,7 +983,7 @@
       "builderBaseTrophies": 3512,
       "clanRank": 19,
       "previousClanRank": 0,
-      "donations": 67,
+      "donations": 77,
       "donationsReceived": 0,
       "playerHouse": {
         "elements": [
@@ -1280,7 +1280,7 @@
       "name": "ADNHDZ94",
       "role": "member",
       "townHallLevel": 16,
-      "expLevel": 161,
+      "expLevel": 162,
       "league": {
         "id": 29000000,
         "name": "Unranked",
@@ -1298,7 +1298,7 @@
         }
       },
       "trophies": 0,
-      "builderBaseTrophies": 2828,
+      "builderBaseTrophies": 2845,
       "clanRank": 25,
       "previousClanRank": 25,
       "donations": 542,
@@ -1526,7 +1526,7 @@
       "builderBaseTrophies": 2609,
       "clanRank": 30,
       "previousClanRank": 29,
-      "donations": 558,
+      "donations": 559,
       "donationsReceived": 312,
       "playerHouse": {
         "elements": [
@@ -1738,7 +1738,7 @@
       "builderBaseTrophies": 2848,
       "clanRank": 34,
       "previousClanRank": 33,
-      "donations": 266,
+      "donations": 272,
       "donationsReceived": 126,
       "playerHouse": {
         "elements": [
