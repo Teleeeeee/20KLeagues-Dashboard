@@ -1,7 +1,7 @@
 {
   "clan_name": "20,000 Leagues",
   "clan_tag": "#2VJ2LPY8",
-  "fetched_at": "2026-10-23T21:11:47.764408+00:00",
+  "fetched_at": "2026-10-23T23:56:19.450512+00:00",
   "members": [
     {
       "tag": "#8VPQY29Y0",
@@ -237,7 +237,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png"
         }
       },
-      "trophies": 146,
+      "trophies": 158,
       "builderBaseTrophies": 2821,
       "clanRank": 5,
       "previousClanRank": 5,
@@ -454,7 +454,7 @@
       "clanRank": 9,
       "previousClanRank": 11,
       "donations": 972,
-      "donationsReceived": 3997,
+      "donationsReceived": 4047,
       "playerHouse": {
         "elements": [
           {
@@ -612,7 +612,7 @@
       "builderBaseTrophies": 2505,
       "clanRank": 12,
       "previousClanRank": 13,
-      "donations": 4728,
+      "donations": 4778,
       "donationsReceived": 2907,
       "playerHouse": {
         "elements": [
@@ -1196,7 +1196,7 @@
       "builderBaseTrophies": 3268,
       "clanRank": 23,
       "previousClanRank": 24,
-      "donations": 66,
+      "donations": 136,
       "donationsReceived": 219,
       "playerHouse": {
         "elements": [
@@ -1952,7 +1952,7 @@
       "clanRank": 38,
       "previousClanRank": 39,
       "donations": 334,
-      "donationsReceived": 896,
+      "donationsReceived": 968,
       "playerHouse": {
         "elements": [
           {
@@ -2160,7 +2160,7 @@
         }
       },
       "trophies": 0,
-      "builderBaseTrophies": 530,
+      "builderBaseTrophies": 629,
       "clanRank": 42,
       "previousClanRank": 43,
       "donations": 105,
@@ -2186,8 +2186,8 @@
         ]
       },
       "builderBaseLeague": {
-        "id": 44000005,
-        "name": "Clay League V"
+        "id": 44000006,
+        "name": "Clay League IV"
       }
     },
     {
@@ -2213,10 +2213,10 @@
         }
       },
       "trophies": 0,
-      "builderBaseTrophies": 2969,
+      "builderBaseTrophies": 2941,
       "clanRank": 43,
       "previousClanRank": 44,
-      "donations": 409,
+      "donations": 411,
       "donationsReceived": 0,
       "playerHouse": {
         "elements": [
