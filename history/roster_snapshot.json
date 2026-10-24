@@ -1,7 +1,7 @@
 {
   "clan_name": "20,000 Leagues",
   "clan_tag": "#2VJ2LPY8",
-  "fetched_at": "2026-10-24T19:40:49.693485+00:00",
+  "fetched_at": "2026-10-24T22:18:47.405443+00:00",
   "members": [
     {
       "tag": "#8VPQY29Y0",
@@ -136,7 +136,7 @@
       "clanRank": 3,
       "previousClanRank": 3,
       "donations": 533,
-      "donationsReceived": 813,
+      "donationsReceived": 898,
       "playerHouse": {
         "elements": [
           {
@@ -502,12 +502,12 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png"
         }
       },
-      "trophies": 511,
+      "trophies": 530,
       "builderBaseTrophies": 3556,
       "clanRank": 10,
       "previousClanRank": 9,
       "donations": 992,
-      "donationsReceived": 4259,
+      "donationsReceived": 4310,
       "playerHouse": {
         "elements": [
           {
@@ -608,7 +608,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png"
         }
       },
-      "trophies": 443,
+      "trophies": 454,
       "builderBaseTrophies": 3284,
       "clanRank": 12,
       "previousClanRank": 11,
@@ -1983,7 +1983,7 @@
       "name": "メデーLluv-Unreal",
       "role": "member",
       "townHallLevel": 11,
-      "expLevel": 90,
+      "expLevel": 91,
       "league": {
         "id": 29000000,
         "name": "Unranked",
@@ -2216,7 +2216,7 @@
       "builderBaseTrophies": 2804,
       "clanRank": 43,
       "previousClanRank": 43,
-      "donations": 464,
+      "donations": 600,
       "donationsReceived": 0,
       "playerHouse": {
         "elements": [
