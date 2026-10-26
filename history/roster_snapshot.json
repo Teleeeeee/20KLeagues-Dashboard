@@ -1,7 +1,7 @@
 {
   "clan_name": "20,000 Leagues",
   "clan_tag": "#2VJ2LPY8",
-  "fetched_at": "2026-10-25T23:28:04.673531+00:00",
+  "fetched_at": "2026-10-26T01:34:51.438515+00:00",
   "members": [
     {
       "tag": "#8VPQY29Y0",
@@ -25,12 +25,12 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png"
         }
       },
-      "trophies": 265,
+      "trophies": 356,
       "builderBaseTrophies": 3170,
       "clanRank": 1,
       "previousClanRank": 1,
-      "donations": 2906,
-      "donationsReceived": 937,
+      "donations": 3072,
+      "donationsReceived": 1173,
       "playerHouse": {
         "elements": [
           {
@@ -184,12 +184,12 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png"
         }
       },
-      "trophies": 749,
+      "trophies": 789,
       "builderBaseTrophies": 3165,
       "clanRank": 4,
       "previousClanRank": 4,
-      "donations": 4364,
-      "donationsReceived": 5327,
+      "donations": 4528,
+      "donationsReceived": 5505,
       "playerHouse": {
         "elements": [
           {
@@ -428,6 +428,59 @@
       }
     },
     {
+      "tag": "#2PLU0C92P",
+      "name": "Gabo",
+      "role": "coLeader",
+      "townHallLevel": 16,
+      "expLevel": 205,
+      "league": {
+        "id": 29000000,
+        "name": "Unranked",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000030,
+        "name": "Dragon League 30",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leaguetiers/125/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png",
+          "large": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png"
+        }
+      },
+      "trophies": 574,
+      "builderBaseTrophies": 2578,
+      "clanRank": 9,
+      "previousClanRank": 12,
+      "donations": 5981,
+      "donationsReceived": 3698,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000007
+          },
+          {
+            "type": "walls",
+            "id": 82000140
+          },
+          {
+            "type": "roof",
+            "id": 82000082
+          },
+          {
+            "type": "decoration",
+            "id": 82000064
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000022,
+        "name": "Brass League I"
+      }
+    },
+    {
       "tag": "#9YPLUQ9GV",
       "name": "muset",
       "role": "admin",
@@ -451,10 +504,10 @@
       },
       "trophies": 539,
       "builderBaseTrophies": 3556,
-      "clanRank": 9,
+      "clanRank": 10,
       "previousClanRank": 9,
-      "donations": 994,
-      "donationsReceived": 4422,
+      "donations": 1026,
+      "donationsReceived": 4472,
       "playerHouse": {
         "elements": [
           {
@@ -504,7 +557,7 @@
       },
       "trophies": 518,
       "builderBaseTrophies": 3056,
-      "clanRank": 10,
+      "clanRank": 11,
       "previousClanRank": 10,
       "donations": 868,
       "donationsReceived": 769,
@@ -534,59 +587,6 @@
       }
     },
     {
-      "tag": "#2PLU0C92P",
-      "name": "Gabo",
-      "role": "coLeader",
-      "townHallLevel": 16,
-      "expLevel": 205,
-      "league": {
-        "id": 29000000,
-        "name": "Unranked",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
-        }
-      },
-      "leagueTier": {
-        "id": 105000030,
-        "name": "Dragon League 30",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leaguetiers/125/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png",
-          "large": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png"
-        }
-      },
-      "trophies": 506,
-      "builderBaseTrophies": 2578,
-      "clanRank": 11,
-      "previousClanRank": 12,
-      "donations": 5753,
-      "donationsReceived": 3502,
-      "playerHouse": {
-        "elements": [
-          {
-            "type": "ground",
-            "id": 82000007
-          },
-          {
-            "type": "walls",
-            "id": 82000140
-          },
-          {
-            "type": "roof",
-            "id": 82000082
-          },
-          {
-            "type": "decoration",
-            "id": 82000064
-          }
-        ]
-      },
-      "builderBaseLeague": {
-        "id": 44000022,
-        "name": "Brass League I"
-      }
-    },
-    {
       "tag": "#YY9J2JJYC",
       "name": "Matikun",
       "role": "admin",
@@ -612,8 +612,8 @@
       "builderBaseTrophies": 3284,
       "clanRank": 12,
       "previousClanRank": 11,
-      "donations": 388,
-      "donationsReceived": 2004,
+      "donations": 646,
+      "donationsReceived": 2057,
       "playerHouse": {
         "elements": [
           {
@@ -873,7 +873,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/YCZ7O_3_c8eCBYvX-92qiWeLc6Md6eNJ5A8O-2vUg7I.png"
         }
       },
-      "trophies": 721,
+      "trophies": 735,
       "builderBaseTrophies": 3512,
       "clanRank": 17,
       "previousClanRank": 16,
@@ -984,8 +984,8 @@
       "builderBaseTrophies": 2785,
       "clanRank": 19,
       "previousClanRank": 18,
-      "donations": 366,
-      "donationsReceived": 2390,
+      "donations": 425,
+      "donationsReceived": 2503,
       "playerHouse": {
         "elements": [
           {
@@ -1246,7 +1246,7 @@
         }
       },
       "trophies": 0,
-      "builderBaseTrophies": 3274,
+      "builderBaseTrophies": 3287,
       "clanRank": 24,
       "previousClanRank": 22,
       "donations": 136,
@@ -1548,7 +1548,7 @@
       "clanRank": 30,
       "previousClanRank": 28,
       "donations": 555,
-      "donationsReceived": 517,
+      "donationsReceived": 598,
       "playerHouse": {
         "elements": [
           {
