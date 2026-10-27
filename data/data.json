@@ -801,26 +801,6 @@
       "rol": "Reserva"
     },
     {
-      "player": "Weierstrass",
-      "tag": "#GVCUJYPPV",
-      "th": 10,
-      "atq1m": 0,
-      "prom1m": 0,
-      "p3_1m": 0.0,
-      "pfaltas1m": 0,
-      "score1m": 60,
-      "atq2m": 0,
-      "prom2m": 0,
-      "p3_2m": 0.0,
-      "pfaltas2m": 0,
-      "score2m": 60,
-      "tendencia": null,
-      "score_final": 60.0,
-      "confianza": "Baja",
-      "rank": 41,
-      "rol": "Reserva"
-    },
-    {
       "player": "Wilmer06",
       "tag": "#Q2YJGP08Y",
       "th": 17,
@@ -837,7 +817,7 @@
       "tendencia": null,
       "score_final": 58.944,
       "confianza": "Baja",
-      "rank": 42,
+      "rank": 41,
       "rol": "Reserva"
     },
     {
@@ -857,7 +837,7 @@
       "tendencia": null,
       "score_final": 58.2554,
       "confianza": "Baja",
-      "rank": 43,
+      "rank": 42,
       "rol": "Reserva"
     },
     {
@@ -877,7 +857,7 @@
       "tendencia": null,
       "score_final": 57.5468,
       "confianza": "Media",
-      "rank": 44,
+      "rank": 43,
       "rol": "Reserva"
     },
     {
@@ -897,7 +877,7 @@
       "tendencia": null,
       "score_final": 55.5208,
       "confianza": "Baja",
-      "rank": 45,
+      "rank": 44,
       "rol": "Reserva"
     }
   ],
@@ -2253,36 +2233,6 @@
       "def_p0s": 0
     },
     {
-      "tag": "#GVCUJYPPV",
-      "name": "Weierstrass",
-      "date_last_war": null,
-      "avg_th": 10,
-      "atq_count": 0,
-      "atq_avg_th_target": null,
-      "atq_avg_stars": 0,
-      "atq_3s": 0,
-      "atq_p3s": 0,
-      "atq_2s": 0,
-      "atq_p2s": 0,
-      "atq_1s": 0,
-      "atq_p1s": 0,
-      "atq_0s": 0,
-      "atq_p0s": 0,
-      "atq_miss": 0,
-      "atq_pmiss": 0,
-      "def_count": 0,
-      "def_avg_th": null,
-      "def_avg_stars": 0,
-      "def_3s": 0,
-      "def_p3s": 0,
-      "def_2s": 0,
-      "def_p2s": 0,
-      "def_1s": 0,
-      "def_p1s": 0,
-      "def_0s": 0,
-      "def_p0s": 0
-    },
-    {
       "tag": "#Q2YJGP08Y",
       "name": "Wilmer06",
       "date_last_war": null,
@@ -3605,36 +3555,6 @@
       "def_p0s": 0
     },
     {
-      "tag": "#GVCUJYPPV",
-      "name": "Weierstrass",
-      "date_last_war": null,
-      "avg_th": 10,
-      "atq_count": 0,
-      "atq_avg_th_target": null,
-      "atq_avg_stars": 0,
-      "atq_3s": 0,
-      "atq_p3s": 0,
-      "atq_2s": 0,
-      "atq_p2s": 0,
-      "atq_1s": 0,
-      "atq_p1s": 0,
-      "atq_0s": 0,
-      "atq_p0s": 0,
-      "atq_miss": 0,
-      "atq_pmiss": 0,
-      "def_count": 0,
-      "def_avg_th": null,
-      "def_avg_stars": 0,
-      "def_3s": 0,
-      "def_p3s": 0,
-      "def_2s": 0,
-      "def_p2s": 0,
-      "def_1s": 0,
-      "def_p1s": 0,
-      "def_0s": 0,
-      "def_p0s": 0
-    },
-    {
       "tag": "#Q2YJGP08Y",
       "name": "Wilmer06",
       "date_last_war": null,
@@ -3813,35 +3733,19 @@
       "estrellas_guerra": null
     },
     {
-      "tag": "#Q2Q2CCGLR",
-      "nick": "Drake23",
-      "th": 17,
-      "rol": "member",
-      "rango": 8,
-      "estrellas_guerra": null
-    },
-    {
       "tag": "#2PLU0C92P",
       "nick": "Gabo",
       "th": 16,
       "rol": "coLeader",
-      "rango": 9,
+      "rango": 8,
       "estrellas_guerra": null
     },
     {
-      "tag": "#9YPLUQ9GV",
-      "nick": "muset",
-      "th": 16,
-      "rol": "admin",
-      "rango": 10,
-      "estrellas_guerra": null
-    },
-    {
-      "tag": "#LUVQVRPG8",
-      "nick": "pachiche123",
-      "th": 16,
+      "tag": "#Q2Q2CCGLR",
+      "nick": "Drake23",
+      "th": 17,
       "rol": "member",
-      "rango": 11,
+      "rango": 9,
       "estrellas_guerra": null
     },
     {
@@ -3849,6 +3753,22 @@
       "nick": "Matikun",
       "th": 16,
       "rol": "admin",
+      "rango": 10,
+      "estrellas_guerra": null
+    },
+    {
+      "tag": "#9YPLUQ9GV",
+      "nick": "muset",
+      "th": 16,
+      "rol": "admin",
+      "rango": 11,
+      "estrellas_guerra": null
+    },
+    {
+      "tag": "#LUVQVRPG8",
+      "nick": "pachiche123",
+      "th": 16,
+      "rol": "member",
       "rango": 12,
       "estrellas_guerra": null
     },
@@ -3989,24 +3909,24 @@
       "estrellas_guerra": null
     },
     {
-      "tag": "#8QQPRGR2G",
-      "nick": "GABO",
+      "tag": "#GRPPLJVUP",
+      "nick": "Castor",
       "th": 15,
       "rol": "member",
       "rango": 30,
       "estrellas_guerra": null
     },
     {
-      "tag": "#YCUCG800C",
-      "nick": "Joeseph",
+      "tag": "#8QQPRGR2G",
+      "nick": "GABO",
       "th": 15,
       "rol": "member",
       "rango": 31,
       "estrellas_guerra": null
     },
     {
-      "tag": "#GRPPLJVUP",
-      "nick": "Castor",
+      "tag": "#YCUCG800C",
+      "nick": "Joeseph",
       "th": 15,
       "rol": "member",
       "rango": 32,
@@ -4093,19 +4013,11 @@
       "estrellas_guerra": null
     },
     {
-      "tag": "#GVCUJYPPV",
-      "nick": "Weierstrass",
-      "th": 10,
-      "rol": "admin",
-      "rango": 43,
-      "estrellas_guerra": null
-    },
-    {
       "tag": "#R9PGLLLLU",
       "nick": "Nilopienses",
       "th": 8,
       "rol": "member",
-      "rango": 44,
+      "rango": 43,
       "estrellas_guerra": null
     },
     {
@@ -4113,7 +4025,7 @@
       "nick": "la maravilla",
       "th": 16,
       "rol": "member",
-      "rango": 45,
+      "rango": 44,
       "estrellas_guerra": null
     }
   ],
@@ -4662,7 +4574,7 @@
   "meta": {
     "clanTag": "#2VJ2LPY8",
     "clanName": "20,000 Leagues",
-    "lastUpdated": "2026-10-26 20:25 UTC",
+    "lastUpdated": "2026-10-27 00:01 UTC",
     "historyStart": "2026-09-22",
     "source": "Clash of Clans API (oficial) vía cocproxy.royaleapi.dev"
   }
