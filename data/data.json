@@ -3829,27 +3829,19 @@
       "estrellas_guerra": null
     },
     {
-      "tag": "#YY9J2JJYC",
-      "nick": "Matikun",
-      "th": 16,
-      "rol": "admin",
-      "rango": 10,
-      "estrellas_guerra": null
-    },
-    {
       "tag": "#LUVQVRPG8",
       "nick": "pachiche123",
       "th": 16,
       "rol": "member",
-      "rango": 11,
+      "rango": 10,
       "estrellas_guerra": null
     },
     {
-      "tag": "#9YPLUQ9GV",
-      "nick": "muset",
+      "tag": "#YY9J2JJYC",
+      "nick": "Matikun",
       "th": 16,
       "rol": "admin",
-      "rango": 12,
+      "rango": 11,
       "estrellas_guerra": null
     },
     {
@@ -3857,7 +3849,23 @@
       "nick": "Lluvia⚡",
       "th": 16,
       "rol": "member",
+      "rango": 12,
+      "estrellas_guerra": null
+    },
+    {
+      "tag": "#9YPLUQ9GV",
+      "nick": "muset",
+      "th": 16,
+      "rol": "admin",
       "rango": 13,
+      "estrellas_guerra": null
+    },
+    {
+      "tag": "#GLGLG92RR",
+      "nick": "Manuel",
+      "th": 16,
+      "rol": "member",
+      "rango": 14,
       "estrellas_guerra": null
     },
     {
@@ -3865,7 +3873,7 @@
       "nick": "Wilmer06",
       "th": 17,
       "rol": "member",
-      "rango": 14,
+      "rango": 15,
       "estrellas_guerra": null
     },
     {
@@ -3873,7 +3881,7 @@
       "nick": "Daless Matias",
       "th": 16,
       "rol": "member",
-      "rango": 15,
+      "rango": 16,
       "estrellas_guerra": null
     },
     {
@@ -3881,7 +3889,7 @@
       "nick": "-actiived-",
       "th": 16,
       "rol": "member",
-      "rango": 16,
+      "rango": 17,
       "estrellas_guerra": null
     },
     {
@@ -3889,21 +3897,13 @@
       "nick": "SAECC",
       "th": 16,
       "rol": "member",
-      "rango": 17,
+      "rango": 18,
       "estrellas_guerra": null
     },
     {
       "tag": "#P8P2Y98PC",
       "nick": "T3NT4CI0N",
       "th": 17,
-      "rol": "member",
-      "rango": 18,
-      "estrellas_guerra": null
-    },
-    {
-      "tag": "#GLGLG92RR",
-      "nick": "Manuel",
-      "th": 16,
       "rol": "member",
       "rango": 19,
       "estrellas_guerra": null
@@ -4662,7 +4662,7 @@
   "meta": {
     "clanTag": "#2VJ2LPY8",
     "clanName": "20,000 Leagues",
-    "lastUpdated": "2026-10-27 16:17 UTC",
+    "lastUpdated": "2026-10-27 20:52 UTC",
     "historyStart": "2026-09-22",
     "source": "Clash of Clans API (oficial) vía cocproxy.royaleapi.dev"
   }
