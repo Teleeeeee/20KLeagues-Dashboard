@@ -3685,24 +3685,24 @@
       "estrellas_guerra": null
     },
     {
+      "tag": "#2G9JQU88L",
+      "nick": "Gabriel :D",
+      "th": 18,
+      "rol": "admin",
+      "rango": 2,
+      "estrellas_guerra": null
+    },
+    {
       "tag": "#2VJ9CYJV",
       "nick": "AtiKo",
       "th": 18,
       "rol": "member",
-      "rango": 2,
+      "rango": 3,
       "estrellas_guerra": null
     },
     {
       "tag": "#GLCU09UCP",
       "nick": "Say May Name",
-      "th": 18,
-      "rol": "admin",
-      "rango": 3,
-      "estrellas_guerra": null
-    },
-    {
-      "tag": "#2G9JQU88L",
-      "nick": "Gabriel :D",
       "th": 18,
       "rol": "admin",
       "rango": 4,
@@ -3781,43 +3781,19 @@
       "estrellas_guerra": null
     },
     {
-      "tag": "#Q2YJGP08Y",
-      "nick": "Wilmer06",
-      "th": 17,
+      "tag": "#QUJJ8QPVJ",
+      "nick": "Daless Matias",
+      "th": 16,
       "rol": "member",
       "rango": 14,
       "estrellas_guerra": null
     },
     {
-      "tag": "#GQY8UU08V",
-      "nick": "SAECC",
-      "th": 16,
-      "rol": "member",
-      "rango": 15,
-      "estrellas_guerra": null
-    },
-    {
-      "tag": "#P8P2Y98PC",
-      "nick": "T3NT4CI0N",
+      "tag": "#Q2YJGP08Y",
+      "nick": "Wilmer06",
       "th": 17,
       "rol": "member",
-      "rango": 16,
-      "estrellas_guerra": null
-    },
-    {
-      "tag": "#GLGLG92RR",
-      "nick": "Manuel",
-      "th": 16,
-      "rol": "member",
-      "rango": 17,
-      "estrellas_guerra": null
-    },
-    {
-      "tag": "#QUJJ8QPVJ",
-      "nick": "Daless Matias",
-      "th": 16,
-      "rol": "member",
-      "rango": 18,
+      "rango": 15,
       "estrellas_guerra": null
     },
     {
@@ -3825,20 +3801,44 @@
       "nick": "-actiived-",
       "th": 16,
       "rol": "member",
+      "rango": 16,
+      "estrellas_guerra": null
+    },
+    {
+      "tag": "#GQY8UU08V",
+      "nick": "SAECC",
+      "th": 16,
+      "rol": "member",
+      "rango": 17,
+      "estrellas_guerra": null
+    },
+    {
+      "tag": "#P8P2Y98PC",
+      "nick": "T3NT4CI0N",
+      "th": 17,
+      "rol": "member",
+      "rango": 18,
+      "estrellas_guerra": null
+    },
+    {
+      "tag": "#GLGLG92RR",
+      "nick": "Manuel",
+      "th": 16,
+      "rol": "member",
       "rango": 19,
       "estrellas_guerra": null
     },
     {
-      "tag": "#Y89QR2CR2",
-      "nick": "GoLd ViPeR",
+      "tag": "#8RP8J0PY9",
+      "nick": "ARMANDIUXER",
       "th": 16,
       "rol": "member",
       "rango": 20,
       "estrellas_guerra": null
     },
     {
-      "tag": "#8RP8J0PY9",
-      "nick": "ARMANDIUXER",
+      "tag": "#Y89QR2CR2",
+      "nick": "GoLd ViPeR",
       "th": 16,
       "rol": "member",
       "rango": 21,
@@ -3917,16 +3917,16 @@
       "estrellas_guerra": null
     },
     {
-      "tag": "#8QQPRGR2G",
-      "nick": "GABO",
+      "tag": "#YCUCG800C",
+      "nick": "Joeseph",
       "th": 15,
       "rol": "member",
       "rango": 31,
       "estrellas_guerra": null
     },
     {
-      "tag": "#YCUCG800C",
-      "nick": "Joeseph",
+      "tag": "#8QQPRGR2G",
+      "nick": "GABO",
       "th": 15,
       "rol": "member",
       "rango": 32,
@@ -4574,7 +4574,7 @@
   "meta": {
     "clanTag": "#2VJ2LPY8",
     "clanName": "20,000 Leagues",
-    "lastUpdated": "2026-10-27 00:01 UTC",
+    "lastUpdated": "2026-10-27 05:26 UTC",
     "historyStart": "2026-09-22",
     "source": "Clash of Clans API (oficial) vía cocproxy.royaleapi.dev"
   }
