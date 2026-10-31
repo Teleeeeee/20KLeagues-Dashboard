@@ -1,7 +1,7 @@
 {
   "clan_name": "20,000 Leagues",
   "clan_tag": "#2VJ2LPY8",
-  "fetched_at": "2026-10-31T16:15:22.846377+00:00",
+  "fetched_at": "2026-10-31T20:11:58.552957+00:00",
   "members": [
     {
       "tag": "#8VPQY29Y0",
@@ -82,7 +82,7 @@
       "builderBaseTrophies": 3221,
       "clanRank": 2,
       "previousClanRank": 2,
-      "donations": 1722,
+      "donations": 1727,
       "donationsReceived": 0,
       "playerHouse": {
         "elements": [
@@ -188,7 +188,7 @@
       "builderBaseTrophies": 2986,
       "clanRank": 4,
       "previousClanRank": 4,
-      "donations": 831,
+      "donations": 881,
       "donationsReceived": 898,
       "playerHouse": {
         "elements": [
@@ -343,7 +343,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png"
         }
       },
-      "trophies": 628,
+      "trophies": 639,
       "builderBaseTrophies": 2414,
       "clanRank": 7,
       "previousClanRank": 7,
@@ -450,10 +450,10 @@
         }
       },
       "trophies": 23,
-      "builderBaseTrophies": 3167,
+      "builderBaseTrophies": 3183,
       "clanRank": 9,
       "previousClanRank": 9,
-      "donations": 1346,
+      "donations": 1424,
       "donationsReceived": 163,
       "playerHouse": {
         "elements": [
@@ -507,7 +507,7 @@
       "clanRank": 10,
       "previousClanRank": 10,
       "donations": 1345,
-      "donationsReceived": 5503,
+      "donationsReceived": 5553,
       "playerHouse": {
         "elements": [
           {
@@ -803,7 +803,7 @@
       "name": "Manuel",
       "role": "member",
       "townHallLevel": 16,
-      "expLevel": 174,
+      "expLevel": 175,
       "league": {
         "id": 29000000,
         "name": "Unranked",
@@ -824,7 +824,7 @@
       "builderBaseTrophies": 2972,
       "clanRank": 16,
       "previousClanRank": 16,
-      "donations": 672,
+      "donations": 720,
       "donationsReceived": 166,
       "playerHouse": {
         "elements": [
@@ -1038,7 +1038,7 @@
       "clanRank": 20,
       "previousClanRank": 20,
       "donations": 1513,
-      "donationsReceived": 1535,
+      "donationsReceived": 1618,
       "playerHouse": {
         "elements": [
           {
@@ -1809,11 +1809,11 @@
         }
       },
       "trophies": 221,
-      "builderBaseTrophies": 2768,
+      "builderBaseTrophies": 2777,
       "clanRank": 35,
       "previousClanRank": 35,
       "donations": 920,
-      "donationsReceived": 312,
+      "donationsReceived": 360,
       "playerHouse": {
         "elements": [
           {
@@ -2318,7 +2318,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/A_ZoGbh1g8wYRWygsQ_wMgbVz8GXvvfavKwlSx8C8PQ.png"
         }
       },
-      "trophies": 281,
+      "trophies": 291,
       "builderBaseTrophies": 0,
       "clanRank": 45,
       "previousClanRank": 45,
@@ -2372,7 +2372,7 @@
         }
       },
       "trophies": 366,
-      "builderBaseTrophies": 2790,
+      "builderBaseTrophies": 2823,
       "clanRank": 46,
       "previousClanRank": 46,
       "donations": 0,
@@ -2398,8 +2398,8 @@
         ]
       },
       "builderBaseLeague": {
-        "id": 44000023,
-        "name": "Iron League III"
+        "id": 44000024,
+        "name": "Iron League II"
       }
     },
     {
