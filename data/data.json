@@ -3,19 +3,19 @@
     {
       "player": "Gabo",
       "tag": "#2PLU0C92P",
-      "th": 16,
+      "th": 17,
       "atq1m": 30,
       "prom1m": 3,
       "p3_1m": 1.0,
       "pfaltas1m": 0,
-      "score1m": 100.2687,
+      "score1m": 99.6647,
       "atq2m": 42,
       "prom2m": 3,
       "p3_2m": 1.0,
       "pfaltas2m": 0,
-      "score2m": 100.325,
+      "score2m": 99.7176,
       "tendencia": null,
-      "score_final": 100.2884,
+      "score_final": 99.6832,
       "confianza": "Alta",
       "rank": 1,
       "rol": "Titular fijo"
@@ -741,6 +741,26 @@
       "rol": "Reserva"
     },
     {
+      "player": "BRANDONDREY",
+      "tag": "#2G28CYQR9",
+      "th": 16,
+      "atq1m": 3,
+      "prom1m": 2.3333,
+      "p3_1m": 0.3333,
+      "pfaltas1m": 0,
+      "score1m": 60.7983,
+      "atq2m": 3,
+      "prom2m": 2.3333,
+      "p3_2m": 0.3333,
+      "pfaltas2m": 0,
+      "score2m": 60.7983,
+      "tendencia": null,
+      "score_final": 60.7983,
+      "confianza": "Baja",
+      "rank": 38,
+      "rol": "Reserva"
+    },
+    {
       "player": "GABO",
       "tag": "#8QQPRGR2G",
       "th": 15,
@@ -757,7 +777,7 @@
       "tendencia": null,
       "score_final": 60.768,
       "confianza": "Baja",
-      "rank": 38,
+      "rank": 39,
       "rol": "Reserva"
     },
     {
@@ -777,7 +797,7 @@
       "tendencia": null,
       "score_final": 60.4347,
       "confianza": "Baja",
-      "rank": 39,
+      "rank": 40,
       "rol": "Reserva"
     },
     {
@@ -797,7 +817,7 @@
       "tendencia": null,
       "score_final": 60.0,
       "confianza": "Baja",
-      "rank": 40,
+      "rank": 41,
       "rol": "Reserva"
     },
     {
@@ -817,7 +837,7 @@
       "tendencia": null,
       "score_final": 60.0,
       "confianza": "Baja",
-      "rank": 41,
+      "rank": 42,
       "rol": "Reserva"
     },
     {
@@ -837,7 +857,7 @@
       "tendencia": null,
       "score_final": 60.0,
       "confianza": "Baja",
-      "rank": 42,
+      "rank": 43,
       "rol": "Reserva"
     },
     {
@@ -857,7 +877,7 @@
       "tendencia": null,
       "score_final": 60.0,
       "confianza": "Baja",
-      "rank": 43,
+      "rank": 44,
       "rol": "Reserva"
     },
     {
@@ -877,7 +897,7 @@
       "tendencia": null,
       "score_final": 60.0,
       "confianza": "Baja",
-      "rank": 44,
+      "rank": 45,
       "rol": "Reserva"
     },
     {
@@ -897,7 +917,7 @@
       "tendencia": null,
       "score_final": 60.0,
       "confianza": "Baja",
-      "rank": 45,
+      "rank": 46,
       "rol": "Reserva"
     },
     {
@@ -917,7 +937,7 @@
       "tendencia": null,
       "score_final": 60.0,
       "confianza": "Baja",
-      "rank": 46,
+      "rank": 47,
       "rol": "Reserva"
     },
     {
@@ -937,7 +957,7 @@
       "tendencia": null,
       "score_final": 58.944,
       "confianza": "Baja",
-      "rank": 47,
+      "rank": 48,
       "rol": "Reserva"
     },
     {
@@ -956,26 +976,6 @@
       "score2m": 59.0458,
       "tendencia": null,
       "score_final": 58.2554,
-      "confianza": "Baja",
-      "rank": 48,
-      "rol": "Reserva"
-    },
-    {
-      "player": "BRANDONDREY",
-      "tag": "#2G28CYQR9",
-      "th": 16,
-      "atq1m": 2,
-      "prom1m": 2,
-      "p3_1m": 0.0,
-      "pfaltas1m": 0,
-      "score1m": 58.1424,
-      "atq2m": 2,
-      "prom2m": 2,
-      "p3_2m": 0.0,
-      "pfaltas2m": 0,
-      "score2m": 58.1424,
-      "tendencia": null,
-      "score_final": 58.1424,
       "confianza": "Baja",
       "rank": 49,
       "rol": "Reserva"
@@ -1005,7 +1005,7 @@
     {
       "rank": 1,
       "player": "Gabo",
-      "score_final": 100.2884,
+      "score_final": 99.6832,
       "tendencia": null,
       "prom1m": 3,
       "p3_1m": 1.0
@@ -1124,7 +1124,7 @@
     }
   ],
   "indicadores": {
-    "Score promedio Top 15": 92.1882,
+    "Score promedio Top 15": 92.1479,
     "Promedio estrellas 1 mes Top 15": 2.7846,
     "Triple rate 1 mes Top 15": 0.8354,
     "Ataques perdidos 1 mes Top 15": 0,
@@ -1156,7 +1156,7 @@
       "tag": "#2PLU0C92P",
       "name": "Gabo",
       "date_last_war": null,
-      "avg_th": 16,
+      "avg_th": 17,
       "atq_count": 30,
       "atq_avg_th_target": 16.43,
       "atq_avg_stars": 3,
@@ -2263,6 +2263,36 @@
       "def_p0s": 0.0
     },
     {
+      "tag": "#2G28CYQR9",
+      "name": "BRANDONDREY",
+      "date_last_war": null,
+      "avg_th": 16,
+      "atq_count": 3,
+      "atq_avg_th_target": 16,
+      "atq_avg_stars": 2.3333,
+      "atq_3s": 1,
+      "atq_p3s": 33.33,
+      "atq_2s": 2,
+      "atq_p2s": 66.67,
+      "atq_1s": 0,
+      "atq_p1s": 0.0,
+      "atq_0s": 0,
+      "atq_p0s": 0.0,
+      "atq_miss": 0,
+      "atq_pmiss": 0,
+      "def_count": 1,
+      "def_avg_th": 15,
+      "def_avg_stars": 3,
+      "def_3s": 1,
+      "def_p3s": 100.0,
+      "def_2s": 0,
+      "def_p2s": 0.0,
+      "def_1s": 0,
+      "def_p1s": 0.0,
+      "def_0s": 0,
+      "def_p0s": 0.0
+    },
+    {
       "tag": "#8QQPRGR2G",
       "name": "GABO",
       "date_last_war": null,
@@ -2593,36 +2623,6 @@
       "def_p0s": 0.0
     },
     {
-      "tag": "#2G28CYQR9",
-      "name": "BRANDONDREY",
-      "date_last_war": null,
-      "avg_th": 16,
-      "atq_count": 2,
-      "atq_avg_th_target": 15.5,
-      "atq_avg_stars": 2,
-      "atq_3s": 0,
-      "atq_p3s": 0.0,
-      "atq_2s": 2,
-      "atq_p2s": 100.0,
-      "atq_1s": 0,
-      "atq_p1s": 0.0,
-      "atq_0s": 0,
-      "atq_p0s": 0.0,
-      "atq_miss": 0,
-      "atq_pmiss": 0,
-      "def_count": 1,
-      "def_avg_th": 15,
-      "def_avg_stars": 3,
-      "def_3s": 1,
-      "def_p3s": 100.0,
-      "def_2s": 0,
-      "def_p2s": 0.0,
-      "def_1s": 0,
-      "def_p1s": 0.0,
-      "def_0s": 0,
-      "def_p0s": 0.0
-    },
-    {
       "tag": "#R9PGLLLLU",
       "name": "Nilopienses",
       "date_last_war": null,
@@ -2658,7 +2658,7 @@
       "tag": "#2PLU0C92P",
       "name": "Gabo",
       "date_last_war": null,
-      "avg_th": 16,
+      "avg_th": 17,
       "atq_count": 42,
       "atq_avg_th_target": 16.52,
       "atq_avg_stars": 3,
@@ -3765,6 +3765,36 @@
       "def_p0s": 0.0
     },
     {
+      "tag": "#2G28CYQR9",
+      "name": "BRANDONDREY",
+      "date_last_war": null,
+      "avg_th": 16,
+      "atq_count": 3,
+      "atq_avg_th_target": 16,
+      "atq_avg_stars": 2.3333,
+      "atq_3s": 1,
+      "atq_p3s": 33.33,
+      "atq_2s": 2,
+      "atq_p2s": 66.67,
+      "atq_1s": 0,
+      "atq_p1s": 0.0,
+      "atq_0s": 0,
+      "atq_p0s": 0.0,
+      "atq_miss": 0,
+      "atq_pmiss": 0,
+      "def_count": 1,
+      "def_avg_th": 15,
+      "def_avg_stars": 3,
+      "def_3s": 1,
+      "def_p3s": 100.0,
+      "def_2s": 0,
+      "def_p2s": 0.0,
+      "def_1s": 0,
+      "def_p1s": 0.0,
+      "def_0s": 0,
+      "def_p0s": 0.0
+    },
+    {
       "tag": "#8QQPRGR2G",
       "name": "GABO",
       "date_last_war": null,
@@ -4095,36 +4125,6 @@
       "def_p0s": 0.0
     },
     {
-      "tag": "#2G28CYQR9",
-      "name": "BRANDONDREY",
-      "date_last_war": null,
-      "avg_th": 16,
-      "atq_count": 2,
-      "atq_avg_th_target": 15.5,
-      "atq_avg_stars": 2,
-      "atq_3s": 0,
-      "atq_p3s": 0.0,
-      "atq_2s": 2,
-      "atq_p2s": 100.0,
-      "atq_1s": 0,
-      "atq_p1s": 0.0,
-      "atq_0s": 0,
-      "atq_p0s": 0.0,
-      "atq_miss": 0,
-      "atq_pmiss": 0,
-      "def_count": 1,
-      "def_avg_th": 15,
-      "def_avg_stars": 3,
-      "def_3s": 1,
-      "def_p3s": 100.0,
-      "def_2s": 0,
-      "def_p2s": 0.0,
-      "def_1s": 0,
-      "def_p1s": 0.0,
-      "def_0s": 0,
-      "def_p0s": 0.0
-    },
-    {
       "tag": "#R9PGLLLLU",
       "name": "Nilopienses",
       "date_last_war": null,
@@ -4181,18 +4181,18 @@
       "estrellas_guerra": null
     },
     {
-      "tag": "#2VJ9CYJV",
-      "nick": "AtiKo",
-      "th": 18,
-      "rol": "member",
+      "tag": "#2PLU0C92P",
+      "nick": "Gabo",
+      "th": 17,
+      "rol": "coLeader",
       "rango": 4,
       "estrellas_guerra": null
     },
     {
-      "tag": "#2PLU0C92P",
-      "nick": "Gabo",
-      "th": 16,
-      "rol": "coLeader",
+      "tag": "#2VJ9CYJV",
+      "nick": "AtiKo",
+      "th": 18,
+      "rol": "member",
       "rango": 5,
       "estrellas_guerra": null
     },
@@ -4245,25 +4245,25 @@
       "estrellas_guerra": null
     },
     {
+      "tag": "#8YY2PG88Y",
+      "nick": "Lluvia⚡",
+      "th": 16,
+      "rol": "member",
+      "rango": 12,
+      "estrellas_guerra": null
+    },
+    {
       "tag": "#G8RLQUPQP",
       "nick": "Gonzalo",
       "th": 18,
       "rol": "member",
-      "rango": 12,
+      "rango": 13,
       "estrellas_guerra": null
     },
     {
       "tag": "#GRGGJ8L92",
       "nick": "Gauss",
       "th": 15,
-      "rol": "member",
-      "rango": 13,
-      "estrellas_guerra": null
-    },
-    {
-      "tag": "#8YY2PG88Y",
-      "nick": "Lluvia⚡",
-      "th": 16,
       "rol": "member",
       "rango": 14,
       "estrellas_guerra": null
@@ -4293,18 +4293,18 @@
       "estrellas_guerra": null
     },
     {
-      "tag": "#Q2YJGP08Y",
-      "nick": "Wilmer06",
-      "th": 17,
-      "rol": "member",
-      "rango": 18,
-      "estrellas_guerra": null
-    },
-    {
       "tag": "#YY9J2JJYC",
       "nick": "Matikun",
       "th": 17,
       "rol": "admin",
+      "rango": 18,
+      "estrellas_guerra": null
+    },
+    {
+      "tag": "#Q2YJGP08Y",
+      "nick": "Wilmer06",
+      "th": 17,
+      "rol": "member",
       "rango": 19,
       "estrellas_guerra": null
     },
@@ -4405,17 +4405,17 @@
       "estrellas_guerra": null
     },
     {
-      "tag": "#LVULGPQ9",
-      "nick": "L&ST&R",
-      "th": 15,
+      "tag": "#GY98CYLPP",
+      "nick": "BRAYAN×_×",
+      "th": 16,
       "rol": "member",
       "rango": 32,
       "estrellas_guerra": null
     },
     {
-      "tag": "#GY98CYLPP",
-      "nick": "BRAYAN×_×",
-      "th": 16,
+      "tag": "#LVULGPQ9",
+      "nick": "L&ST&R",
+      "th": 15,
       "rol": "member",
       "rango": 33,
       "estrellas_guerra": null
@@ -4445,17 +4445,17 @@
       "estrellas_guerra": null
     },
     {
-      "tag": "#GRPPLJVUP",
-      "nick": "Castor",
-      "th": 16,
+      "tag": "#YCUCG800C",
+      "nick": "Joeseph",
+      "th": 15,
       "rol": "member",
       "rango": 37,
       "estrellas_guerra": null
     },
     {
-      "tag": "#YCUCG800C",
-      "nick": "Joeseph",
-      "th": 15,
+      "tag": "#GRPPLJVUP",
+      "nick": "Castor",
+      "th": 16,
       "rol": "member",
       "rango": 38,
       "estrellas_guerra": null
@@ -5102,7 +5102,7 @@
   "meta": {
     "clanTag": "#2VJ2LPY8",
     "clanName": "20,000 Leagues",
-    "lastUpdated": "2026-11-03 16:53 UTC",
+    "lastUpdated": "2026-11-03 22:14 UTC",
     "historyStart": "2026-09-22",
     "source": "Clash of Clans API (oficial) vía cocproxy.royaleapi.dev"
   }
