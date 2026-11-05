@@ -1,7 +1,7 @@
 {
   "clan_name": "20,000 Leagues",
   "clan_tag": "#2VJ2LPY8",
-  "fetched_at": "2026-11-05T00:13:40.900541+00:00",
+  "fetched_at": "2026-11-05T07:12:41.868905+00:00",
   "members": [
     {
       "tag": "#8VPQY29Y0",
@@ -82,7 +82,7 @@
       "builderBaseTrophies": 3165,
       "clanRank": 2,
       "previousClanRank": 2,
-      "donations": 1146,
+      "donations": 1297,
       "donationsReceived": 416,
       "playerHouse": {
         "elements": [
@@ -136,7 +136,7 @@
       "clanRank": 3,
       "previousClanRank": 3,
       "donations": 352,
-      "donationsReceived": 408,
+      "donationsReceived": 496,
       "playerHouse": {
         "elements": [
           {
@@ -220,7 +220,7 @@
       "name": "Gabo",
       "role": "coLeader",
       "townHallLevel": 17,
-      "expLevel": 206,
+      "expLevel": 207,
       "league": {
         "id": 29000000,
         "name": "Unranked",
@@ -241,7 +241,7 @@
       "builderBaseTrophies": 2578,
       "clanRank": 5,
       "previousClanRank": 4,
-      "donations": 697,
+      "donations": 952,
       "donationsReceived": 993,
       "playerHouse": {
         "elements": [
@@ -401,7 +401,7 @@
       "clanRank": 8,
       "previousClanRank": 8,
       "donations": 628,
-      "donationsReceived": 683,
+      "donationsReceived": 736,
       "playerHouse": {
         "elements": [
           {
@@ -556,11 +556,11 @@
         }
       },
       "trophies": 0,
-      "builderBaseTrophies": 3620,
+      "builderBaseTrophies": 3621,
       "clanRank": 11,
       "previousClanRank": 11,
-      "donations": 998,
-      "donationsReceived": 616,
+      "donations": 1144,
+      "donationsReceived": 934,
       "playerHouse": {
         "elements": [
           {
@@ -714,7 +714,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png"
         }
       },
-      "trophies": 111,
+      "trophies": 131,
       "builderBaseTrophies": 3309,
       "clanRank": 14,
       "previousClanRank": 14,
@@ -767,11 +767,11 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png"
         }
       },
-      "trophies": 93,
+      "trophies": 103,
       "builderBaseTrophies": 2327,
       "clanRank": 15,
       "previousClanRank": 13,
-      "donations": 204,
+      "donations": 254,
       "donationsReceived": 83,
       "playerHouse": {
         "elements": [
@@ -856,7 +856,7 @@
       "name": "cris07",
       "role": "member",
       "townHallLevel": 17,
-      "expLevel": 182,
+      "expLevel": 183,
       "league": {
         "id": 29000000,
         "name": "Unranked",
@@ -931,7 +931,7 @@
       "clanRank": 18,
       "previousClanRank": 18,
       "donations": 211,
-      "donationsReceived": 1096,
+      "donationsReceived": 1101,
       "playerHouse": {
         "elements": [
           {
@@ -1038,7 +1038,7 @@
       "clanRank": 20,
       "previousClanRank": 20,
       "donations": 191,
-      "donationsReceived": 196,
+      "donationsReceived": 279,
       "playerHouse": {
         "elements": [
           {
@@ -1277,6 +1277,59 @@
       }
     },
     {
+      "tag": "#GULY89LRR",
+      "name": "REXIN",
+      "role": "member",
+      "townHallLevel": 15,
+      "expLevel": 155,
+      "league": {
+        "id": 29000000,
+        "name": "Unranked",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000027,
+        "name": "Titan League 27",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leaguetiers/125/1AhObOl55grQIWnGmn1J9qMWq5pmRA3aBObfYkQEjko.png",
+          "large": "https://api-assets.clashofclans.com/leaguetiers/326/1AhObOl55grQIWnGmn1J9qMWq5pmRA3aBObfYkQEjko.png"
+        }
+      },
+      "trophies": 67,
+      "builderBaseTrophies": 1581,
+      "clanRank": 25,
+      "previousClanRank": 26,
+      "donations": 215,
+      "donationsReceived": 178,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000000
+          },
+          {
+            "type": "walls",
+            "id": 82000049
+          },
+          {
+            "type": "roof",
+            "id": 82000032
+          },
+          {
+            "type": "decoration",
+            "id": 82000060
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000015,
+        "name": "Copper League V"
+      }
+    },
+    {
       "tag": "#8RP8J0PY9",
       "name": "ARMANDIUXER",
       "role": "member",
@@ -1300,7 +1353,7 @@
       },
       "trophies": 51,
       "builderBaseTrophies": 3350,
-      "clanRank": 25,
+      "clanRank": 26,
       "previousClanRank": 25,
       "donations": 0,
       "donationsReceived": 0,
@@ -1327,59 +1380,6 @@
       "builderBaseLeague": {
         "id": 44000026,
         "name": "Steel League III"
-      }
-    },
-    {
-      "tag": "#GULY89LRR",
-      "name": "REXIN",
-      "role": "member",
-      "townHallLevel": 15,
-      "expLevel": 155,
-      "league": {
-        "id": 29000000,
-        "name": "Unranked",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
-        }
-      },
-      "leagueTier": {
-        "id": 105000027,
-        "name": "Titan League 27",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leaguetiers/125/1AhObOl55grQIWnGmn1J9qMWq5pmRA3aBObfYkQEjko.png",
-          "large": "https://api-assets.clashofclans.com/leaguetiers/326/1AhObOl55grQIWnGmn1J9qMWq5pmRA3aBObfYkQEjko.png"
-        }
-      },
-      "trophies": 47,
-      "builderBaseTrophies": 1581,
-      "clanRank": 26,
-      "previousClanRank": 26,
-      "donations": 215,
-      "donationsReceived": 176,
-      "playerHouse": {
-        "elements": [
-          {
-            "type": "ground",
-            "id": 82000000
-          },
-          {
-            "type": "walls",
-            "id": 82000049
-          },
-          {
-            "type": "roof",
-            "id": 82000032
-          },
-          {
-            "type": "decoration",
-            "id": 82000060
-          }
-        ]
-      },
-      "builderBaseLeague": {
-        "id": 44000015,
-        "name": "Copper League V"
       }
     },
     {
@@ -1563,7 +1563,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/JLqVXdNkAGjD_yqMRDgu9KK-hDrulNPjsKU4EugHqX8.png"
         }
       },
-      "trophies": 41,
+      "trophies": 54,
       "builderBaseTrophies": 3147,
       "clanRank": 30,
       "previousClanRank": 30,
@@ -1722,7 +1722,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/0eDMQmsiZ0gs8xzViGfVETnYjwzgELTKwYhH3izevT4.png"
         }
       },
-      "trophies": 133,
+      "trophies": 160,
       "builderBaseTrophies": 3316,
       "clanRank": 33,
       "previousClanRank": 33,
@@ -1811,7 +1811,7 @@
       "name": "GABO",
       "role": "member",
       "townHallLevel": 15,
-      "expLevel": 156,
+      "expLevel": 157,
       "league": {
         "id": 29000000,
         "name": "Unranked",
@@ -1983,7 +1983,7 @@
       "name": "Tooff",
       "role": "admin",
       "townHallLevel": 15,
-      "expLevel": 130,
+      "expLevel": 131,
       "league": {
         "id": 29000000,
         "name": "Unranked",
@@ -2053,7 +2053,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/GeLamlTvRYNnZp5lEW64pyaORN30rCdrxTjU7oJoTN8.png"
         }
       },
-      "trophies": 59,
+      "trophies": 83,
       "builderBaseTrophies": 2545,
       "clanRank": 40,
       "previousClanRank": 40,
@@ -2301,7 +2301,7 @@
       "name": "blackwarrior",
       "role": "member",
       "townHallLevel": 14,
-      "expLevel": 157,
+      "expLevel": 158,
       "league": {
         "id": 29000000,
         "name": "Unranked",
@@ -2372,7 +2372,7 @@
         }
       },
       "trophies": 23,
-      "builderBaseTrophies": 1833,
+      "builderBaseTrophies": 1872,
       "clanRank": 46,
       "previousClanRank": 46,
       "donations": 19,
@@ -2477,7 +2477,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/CmM-Tihn6ojPGJstmTK_HC-QairrpYLyRhdKhQjkacQ.png"
         }
       },
-      "trophies": 0,
+      "trophies": 22,
       "builderBaseTrophies": 1366,
       "clanRank": 48,
       "previousClanRank": 48,
@@ -2535,7 +2535,7 @@
       "clanRank": 49,
       "previousClanRank": 49,
       "donations": 0,
-      "donationsReceived": 0,
+      "donationsReceived": 53,
       "playerHouse": {
         "elements": [
           {
@@ -2566,7 +2566,7 @@
       "name": "la maravilla",
       "role": "member",
       "townHallLevel": 16,
-      "expLevel": 218,
+      "expLevel": 219,
       "league": {
         "id": 29000000,
         "name": "Unranked",
