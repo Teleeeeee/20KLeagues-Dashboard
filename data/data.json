@@ -323,19 +323,19 @@
     {
       "player": "T3NT4CI0N",
       "tag": "#P8P2Y98PC",
-      "th": 17,
+      "th": 18,
       "atq1m": 8,
       "prom1m": 2.875,
       "p3_1m": 0.875,
       "pfaltas1m": 0,
-      "score1m": 80.2369,
+      "score1m": 79.8611,
       "atq2m": 8,
       "prom2m": 2.875,
       "p3_2m": 0.875,
       "pfaltas2m": 0,
-      "score2m": 80.2369,
+      "score2m": 79.8611,
       "tendencia": null,
-      "score_final": 80.2369,
+      "score_final": 79.8611,
       "confianza": "Media",
       "rank": 17,
       "rol": "Suplente prioritario"
@@ -881,6 +881,26 @@
       "rol": "Reserva"
     },
     {
+      "player": "Alfredron124",
+      "tag": "#9CRCL2PJR",
+      "th": 16,
+      "atq1m": 0,
+      "prom1m": 0,
+      "p3_1m": 0.0,
+      "pfaltas1m": 0,
+      "score1m": 60,
+      "atq2m": 0,
+      "prom2m": 0,
+      "p3_2m": 0.0,
+      "pfaltas2m": 0,
+      "score2m": 60,
+      "tendencia": null,
+      "score_final": 60.0,
+      "confianza": "Baja",
+      "rank": 45,
+      "rol": "Reserva"
+    },
+    {
       "player": "Wilmer06",
       "tag": "#Q2YJGP08Y",
       "th": 17,
@@ -897,7 +917,7 @@
       "tendencia": null,
       "score_final": 58.944,
       "confianza": "Baja",
-      "rank": 45,
+      "rank": 46,
       "rol": "Reserva"
     },
     {
@@ -917,7 +937,7 @@
       "tendencia": null,
       "score_final": 58.2554,
       "confianza": "Baja",
-      "rank": 46,
+      "rank": 47,
       "rol": "Reserva"
     },
     {
@@ -937,7 +957,7 @@
       "tendencia": null,
       "score_final": 51.9444,
       "confianza": "Baja",
-      "rank": 47,
+      "rank": 48,
       "rol": "Reserva"
     }
   ],
@@ -1576,7 +1596,7 @@
       "tag": "#P8P2Y98PC",
       "name": "T3NT4CI0N",
       "date_last_war": null,
-      "avg_th": 17,
+      "avg_th": 18,
       "atq_count": 8,
       "atq_avg_th_target": 17.25,
       "atq_avg_stars": 2.875,
@@ -2413,6 +2433,36 @@
       "def_p0s": 0
     },
     {
+      "tag": "#9CRCL2PJR",
+      "name": "Alfredron124",
+      "date_last_war": null,
+      "avg_th": 16,
+      "atq_count": 0,
+      "atq_avg_th_target": null,
+      "atq_avg_stars": 0,
+      "atq_3s": 0,
+      "atq_p3s": 0,
+      "atq_2s": 0,
+      "atq_p2s": 0,
+      "atq_1s": 0,
+      "atq_p1s": 0,
+      "atq_0s": 0,
+      "atq_p0s": 0,
+      "atq_miss": 0,
+      "atq_pmiss": 0,
+      "def_count": 0,
+      "def_avg_th": null,
+      "def_avg_stars": 0,
+      "def_3s": 0,
+      "def_p3s": 0,
+      "def_2s": 0,
+      "def_p2s": 0,
+      "def_1s": 0,
+      "def_p1s": 0,
+      "def_0s": 0,
+      "def_p0s": 0
+    },
+    {
       "tag": "#Q2YJGP08Y",
       "name": "Wilmer06",
       "date_last_war": null,
@@ -2988,7 +3038,7 @@
       "tag": "#P8P2Y98PC",
       "name": "T3NT4CI0N",
       "date_last_war": null,
-      "avg_th": 17,
+      "avg_th": 18,
       "atq_count": 8,
       "atq_avg_th_target": 17.25,
       "atq_avg_stars": 2.875,
@@ -3825,6 +3875,36 @@
       "def_p0s": 0
     },
     {
+      "tag": "#9CRCL2PJR",
+      "name": "Alfredron124",
+      "date_last_war": null,
+      "avg_th": 16,
+      "atq_count": 0,
+      "atq_avg_th_target": null,
+      "atq_avg_stars": 0,
+      "atq_3s": 0,
+      "atq_p3s": 0,
+      "atq_2s": 0,
+      "atq_p2s": 0,
+      "atq_1s": 0,
+      "atq_p1s": 0,
+      "atq_0s": 0,
+      "atq_p0s": 0,
+      "atq_miss": 0,
+      "atq_pmiss": 0,
+      "def_count": 0,
+      "def_avg_th": null,
+      "def_avg_stars": 0,
+      "def_3s": 0,
+      "def_p3s": 0,
+      "def_2s": 0,
+      "def_p2s": 0,
+      "def_1s": 0,
+      "def_p1s": 0,
+      "def_0s": 0,
+      "def_p0s": 0
+    },
+    {
       "tag": "#Q2YJGP08Y",
       "name": "Wilmer06",
       "date_last_war": null,
@@ -4079,7 +4159,7 @@
     {
       "tag": "#P8P2Y98PC",
       "nick": "T3NT4CI0N",
-      "th": 17,
+      "th": 18,
       "rol": "member",
       "rango": 21,
       "estrellas_guerra": null
@@ -4290,6 +4370,14 @@
       "th": 16,
       "rol": "member",
       "rango": 47,
+      "estrellas_guerra": null
+    },
+    {
+      "tag": "#9CRCL2PJR",
+      "nick": "Alfredron124",
+      "th": 16,
+      "rol": "member",
+      "rango": 48,
       "estrellas_guerra": null
     }
   ],
@@ -4838,7 +4926,7 @@
   "meta": {
     "clanTag": "#2VJ2LPY8",
     "clanName": "20,000 Leagues",
-    "lastUpdated": "2026-11-06 22:15 UTC",
+    "lastUpdated": "2026-11-07 02:13 UTC",
     "historyStart": "2026-09-22",
     "source": "Clash of Clans API (oficial) vía cocproxy.royaleapi.dev"
   }
