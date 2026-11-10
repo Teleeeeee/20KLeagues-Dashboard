@@ -781,6 +781,26 @@
       "rol": "Reserva"
     },
     {
+      "player": "Alfredron124",
+      "tag": "#9CRCL2PJR",
+      "th": 16,
+      "atq1m": 0,
+      "prom1m": 0,
+      "p3_1m": 0.0,
+      "pfaltas1m": 0,
+      "score1m": 60,
+      "atq2m": 0,
+      "prom2m": 0,
+      "p3_2m": 0.0,
+      "pfaltas2m": 0,
+      "score2m": 60,
+      "tendencia": null,
+      "score_final": 60.0,
+      "confianza": "Baja",
+      "rank": 40,
+      "rol": "Reserva"
+    },
+    {
       "player": "posho",
       "tag": "#9Q2JQ0G8",
       "th": 16,
@@ -797,7 +817,7 @@
       "tendencia": null,
       "score_final": 60.0,
       "confianza": "Baja",
-      "rank": 40,
+      "rank": 41,
       "rol": "Reserva"
     },
     {
@@ -817,7 +837,7 @@
       "tendencia": null,
       "score_final": 60.0,
       "confianza": "Baja",
-      "rank": 41,
+      "rank": 42,
       "rol": "Reserva"
     },
     {
@@ -837,32 +857,12 @@
       "tendencia": null,
       "score_final": 60.0,
       "confianza": "Baja",
-      "rank": 42,
+      "rank": 43,
       "rol": "Reserva"
     },
     {
       "player": "It's Klev!",
       "tag": "#8YL2UR9V9",
-      "th": 16,
-      "atq1m": 0,
-      "prom1m": 0,
-      "p3_1m": 0.0,
-      "pfaltas1m": 0,
-      "score1m": 60,
-      "atq2m": 0,
-      "prom2m": 0,
-      "p3_2m": 0.0,
-      "pfaltas2m": 0,
-      "score2m": 60,
-      "tendencia": null,
-      "score_final": 60.0,
-      "confianza": "Baja",
-      "rank": 43,
-      "rol": "Reserva"
-    },
-    {
-      "player": "Alfredron124",
-      "tag": "#9CRCL2PJR",
       "th": 16,
       "atq1m": 0,
       "prom1m": 0,
@@ -2323,6 +2323,36 @@
       "def_p0s": 0
     },
     {
+      "tag": "#9CRCL2PJR",
+      "name": "Alfredron124",
+      "date_last_war": null,
+      "avg_th": 16,
+      "atq_count": 0,
+      "atq_avg_th_target": null,
+      "atq_avg_stars": 0,
+      "atq_3s": 0,
+      "atq_p3s": 0,
+      "atq_2s": 0,
+      "atq_p2s": 0,
+      "atq_1s": 0,
+      "atq_p1s": 0,
+      "atq_0s": 0,
+      "atq_p0s": 0,
+      "atq_miss": 0,
+      "atq_pmiss": 0,
+      "def_count": 0,
+      "def_avg_th": null,
+      "def_avg_stars": 0,
+      "def_3s": 0,
+      "def_p3s": 0,
+      "def_2s": 0,
+      "def_p2s": 0,
+      "def_1s": 0,
+      "def_p1s": 0,
+      "def_0s": 0,
+      "def_p0s": 0
+    },
+    {
       "tag": "#9Q2JQ0G8",
       "name": "posho",
       "date_last_war": null,
@@ -2415,36 +2445,6 @@
     {
       "tag": "#8YL2UR9V9",
       "name": "It's Klev!",
-      "date_last_war": null,
-      "avg_th": 16,
-      "atq_count": 0,
-      "atq_avg_th_target": null,
-      "atq_avg_stars": 0,
-      "atq_3s": 0,
-      "atq_p3s": 0,
-      "atq_2s": 0,
-      "atq_p2s": 0,
-      "atq_1s": 0,
-      "atq_p1s": 0,
-      "atq_0s": 0,
-      "atq_p0s": 0,
-      "atq_miss": 0,
-      "atq_pmiss": 0,
-      "def_count": 0,
-      "def_avg_th": null,
-      "def_avg_stars": 0,
-      "def_3s": 0,
-      "def_p3s": 0,
-      "def_2s": 0,
-      "def_p2s": 0,
-      "def_1s": 0,
-      "def_p1s": 0,
-      "def_0s": 0,
-      "def_p0s": 0
-    },
-    {
-      "tag": "#9CRCL2PJR",
-      "name": "Alfredron124",
       "date_last_war": null,
       "avg_th": 16,
       "atq_count": 0,
@@ -3825,6 +3825,36 @@
       "def_p0s": 0
     },
     {
+      "tag": "#9CRCL2PJR",
+      "name": "Alfredron124",
+      "date_last_war": null,
+      "avg_th": 16,
+      "atq_count": 0,
+      "atq_avg_th_target": null,
+      "atq_avg_stars": 0,
+      "atq_3s": 0,
+      "atq_p3s": 0,
+      "atq_2s": 0,
+      "atq_p2s": 0,
+      "atq_1s": 0,
+      "atq_p1s": 0,
+      "atq_0s": 0,
+      "atq_p0s": 0,
+      "atq_miss": 0,
+      "atq_pmiss": 0,
+      "def_count": 0,
+      "def_avg_th": null,
+      "def_avg_stars": 0,
+      "def_3s": 0,
+      "def_p3s": 0,
+      "def_2s": 0,
+      "def_p2s": 0,
+      "def_1s": 0,
+      "def_p1s": 0,
+      "def_0s": 0,
+      "def_p0s": 0
+    },
+    {
       "tag": "#9Q2JQ0G8",
       "name": "posho",
       "date_last_war": null,
@@ -3917,36 +3947,6 @@
     {
       "tag": "#8YL2UR9V9",
       "name": "It's Klev!",
-      "date_last_war": null,
-      "avg_th": 16,
-      "atq_count": 0,
-      "atq_avg_th_target": null,
-      "atq_avg_stars": 0,
-      "atq_3s": 0,
-      "atq_p3s": 0,
-      "atq_2s": 0,
-      "atq_p2s": 0,
-      "atq_1s": 0,
-      "atq_p1s": 0,
-      "atq_0s": 0,
-      "atq_p0s": 0,
-      "atq_miss": 0,
-      "atq_pmiss": 0,
-      "def_count": 0,
-      "def_avg_th": null,
-      "def_avg_stars": 0,
-      "def_3s": 0,
-      "def_p3s": 0,
-      "def_2s": 0,
-      "def_p2s": 0,
-      "def_1s": 0,
-      "def_p1s": 0,
-      "def_0s": 0,
-      "def_p0s": 0
-    },
-    {
-      "tag": "#9CRCL2PJR",
-      "name": "Alfredron124",
       "date_last_war": null,
       "avg_th": 16,
       "atq_count": 0,
@@ -4189,11 +4189,19 @@
       "estrellas_guerra": null
     },
     {
+      "tag": "#2PLU0C92P",
+      "nick": "Gabo",
+      "th": 17,
+      "rol": "coLeader",
+      "rango": 5,
+      "estrellas_guerra": null
+    },
+    {
       "tag": "#P2V9RRPJY",
       "nick": "⚡Rudy⚡",
       "th": 17,
       "rol": "member",
-      "rango": 5,
+      "rango": 6,
       "estrellas_guerra": null
     },
     {
@@ -4201,14 +4209,6 @@
       "nick": "Drake23",
       "th": 17,
       "rol": "member",
-      "rango": 6,
-      "estrellas_guerra": null
-    },
-    {
-      "tag": "#2PLU0C92P",
-      "nick": "Gabo",
-      "th": 17,
-      "rol": "coLeader",
       "rango": 7,
       "estrellas_guerra": null
     },
@@ -4293,33 +4293,33 @@
       "estrellas_guerra": null
     },
     {
-      "tag": "#GLGLG92RR",
-      "nick": "Manuel",
-      "th": 16,
+      "tag": "#Q2YJGP08Y",
+      "nick": "Wilmer06",
+      "th": 17,
       "rol": "member",
       "rango": 18,
       "estrellas_guerra": null
     },
     {
-      "tag": "#Q2YJGP08Y",
-      "nick": "Wilmer06",
-      "th": 17,
+      "tag": "#GLGLG92RR",
+      "nick": "Manuel",
+      "th": 16,
       "rol": "member",
       "rango": 19,
-      "estrellas_guerra": null
-    },
-    {
-      "tag": "#P8P2Y98PC",
-      "nick": "T3NT4CI0N",
-      "th": 18,
-      "rol": "member",
-      "rango": 20,
       "estrellas_guerra": null
     },
     {
       "tag": "#2LQRVJJ2",
       "nick": "-actiived-",
       "th": 16,
+      "rol": "member",
+      "rango": 20,
+      "estrellas_guerra": null
+    },
+    {
+      "tag": "#P8P2Y98PC",
+      "nick": "T3NT4CI0N",
+      "th": 18,
       "rol": "member",
       "rango": 21,
       "estrellas_guerra": null
@@ -4381,16 +4381,16 @@
       "estrellas_guerra": null
     },
     {
-      "tag": "#JPQRG0CJ",
-      "nick": "JoseCarlos4",
+      "tag": "#9VC2JCUQC",
+      "nick": "Xavoo05",
       "th": 15,
       "rol": "member",
       "rango": 29,
       "estrellas_guerra": null
     },
     {
-      "tag": "#9VC2JCUQC",
-      "nick": "Xavoo05",
+      "tag": "#JPQRG0CJ",
+      "nick": "JoseCarlos4",
       "th": 15,
       "rol": "member",
       "rango": 30,
@@ -4461,11 +4461,19 @@
       "estrellas_guerra": null
     },
     {
+      "tag": "#9CRCL2PJR",
+      "nick": "Alfredron124",
+      "th": 16,
+      "rol": "member",
+      "rango": 39,
+      "estrellas_guerra": null
+    },
+    {
       "tag": "#9Q2JQ0G8",
       "nick": "posho",
       "th": 16,
       "rol": "member",
-      "rango": 39,
+      "rango": 40,
       "estrellas_guerra": null
     },
     {
@@ -4473,7 +4481,7 @@
       "nick": "Tooff",
       "th": 15,
       "rol": "admin",
-      "rango": 40,
+      "rango": 41,
       "estrellas_guerra": null
     },
     {
@@ -4481,7 +4489,7 @@
       "nick": "Amaterasu",
       "th": 15,
       "rol": "coLeader",
-      "rango": 41,
+      "rango": 42,
       "estrellas_guerra": null
     },
     {
@@ -4489,7 +4497,7 @@
       "nick": "andres",
       "th": 15,
       "rol": "member",
-      "rango": 42,
+      "rango": 43,
       "estrellas_guerra": null
     },
     {
@@ -4497,7 +4505,7 @@
       "nick": "Ezequiel",
       "th": 14,
       "rol": "member",
-      "rango": 43,
+      "rango": 44,
       "estrellas_guerra": null
     },
     {
@@ -4505,7 +4513,7 @@
       "nick": "¥j.a.v.i.e.r ¥",
       "th": 14,
       "rol": "member",
-      "rango": 44,
+      "rango": 45,
       "estrellas_guerra": null
     },
     {
@@ -4513,7 +4521,7 @@
       "nick": "blackwarrior",
       "th": 14,
       "rol": "member",
-      "rango": 45,
+      "rango": 46,
       "estrellas_guerra": null
     },
     {
@@ -4521,7 +4529,7 @@
       "nick": "メデーLluv-Unreal",
       "th": 12,
       "rol": "member",
-      "rango": 46,
+      "rango": 47,
       "estrellas_guerra": null
     },
     {
@@ -4529,7 +4537,7 @@
       "nick": "Guerrero Seb.",
       "th": 12,
       "rol": "member",
-      "rango": 47,
+      "rango": 48,
       "estrellas_guerra": null
     },
     {
@@ -4537,20 +4545,12 @@
       "nick": "Nilopienses",
       "th": 9,
       "rol": "member",
-      "rango": 48,
+      "rango": 49,
       "estrellas_guerra": null
     },
     {
       "tag": "#8YL2UR9V9",
       "nick": "It's Klev!",
-      "th": 16,
-      "rol": "member",
-      "rango": 49,
-      "estrellas_guerra": null
-    },
-    {
-      "tag": "#9CRCL2PJR",
-      "nick": "Alfredron124",
       "th": 16,
       "rol": "member",
       "rango": 50,
@@ -5102,7 +5102,7 @@
   "meta": {
     "clanTag": "#2VJ2LPY8",
     "clanName": "20,000 Leagues",
-    "lastUpdated": "2026-11-10 02:39 UTC",
+    "lastUpdated": "2026-11-10 10:52 UTC",
     "historyStart": "2026-09-22",
     "source": "Clash of Clans API (oficial) vía cocproxy.royaleapi.dev"
   }
