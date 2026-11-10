@@ -741,6 +741,46 @@
       "rol": "Reserva"
     },
     {
+      "player": "MELQUISEDEC.79",
+      "tag": "#Q0PQQPQLQ",
+      "th": 17,
+      "atq1m": 0,
+      "prom1m": 0,
+      "p3_1m": 0.0,
+      "pfaltas1m": 0,
+      "score1m": 60,
+      "atq2m": 0,
+      "prom2m": 0,
+      "p3_2m": 0.0,
+      "pfaltas2m": 0,
+      "score2m": 60,
+      "tendencia": null,
+      "score_final": 60.0,
+      "confianza": "Baja",
+      "rank": 38,
+      "rol": "Reserva"
+    },
+    {
+      "player": "MELQUISEDEC",
+      "tag": "#GJCGRJC9Q",
+      "th": 14,
+      "atq1m": 0,
+      "prom1m": 0,
+      "p3_1m": 0.0,
+      "pfaltas1m": 0,
+      "score1m": 60,
+      "atq2m": 0,
+      "prom2m": 0,
+      "p3_2m": 0.0,
+      "pfaltas2m": 0,
+      "score2m": 60,
+      "tendencia": null,
+      "score_final": 60.0,
+      "confianza": "Baja",
+      "rank": 39,
+      "rol": "Reserva"
+    },
+    {
       "player": "posho",
       "tag": "#9Q2JQ0G8",
       "th": 16,
@@ -757,7 +797,7 @@
       "tendencia": null,
       "score_final": 60.0,
       "confianza": "Baja",
-      "rank": 38,
+      "rank": 40,
       "rol": "Reserva"
     },
     {
@@ -777,7 +817,7 @@
       "tendencia": null,
       "score_final": 60.0,
       "confianza": "Baja",
-      "rank": 39,
+      "rank": 41,
       "rol": "Reserva"
     },
     {
@@ -797,7 +837,7 @@
       "tendencia": null,
       "score_final": 60.0,
       "confianza": "Baja",
-      "rank": 40,
+      "rank": 42,
       "rol": "Reserva"
     },
     {
@@ -817,7 +857,7 @@
       "tendencia": null,
       "score_final": 60.0,
       "confianza": "Baja",
-      "rank": 41,
+      "rank": 43,
       "rol": "Reserva"
     },
     {
@@ -837,7 +877,7 @@
       "tendencia": null,
       "score_final": 60.0,
       "confianza": "Baja",
-      "rank": 42,
+      "rank": 44,
       "rol": "Reserva"
     },
     {
@@ -857,7 +897,7 @@
       "tendencia": null,
       "score_final": 58.9931,
       "confianza": "Baja",
-      "rank": 43,
+      "rank": 45,
       "rol": "Reserva"
     },
     {
@@ -877,7 +917,7 @@
       "tendencia": null,
       "score_final": 58.944,
       "confianza": "Baja",
-      "rank": 44,
+      "rank": 46,
       "rol": "Reserva"
     },
     {
@@ -897,7 +937,7 @@
       "tendencia": null,
       "score_final": 58.2554,
       "confianza": "Baja",
-      "rank": 45,
+      "rank": 47,
       "rol": "Reserva"
     },
     {
@@ -917,7 +957,7 @@
       "tendencia": null,
       "score_final": 58.0791,
       "confianza": "Media",
-      "rank": 46,
+      "rank": 48,
       "rol": "Reserva"
     },
     {
@@ -937,7 +977,7 @@
       "tendencia": null,
       "score_final": 57.931,
       "confianza": "Baja",
-      "rank": 47,
+      "rank": 49,
       "rol": "Reserva"
     },
     {
@@ -957,7 +997,7 @@
       "tendencia": null,
       "score_final": 51.9444,
       "confianza": "Baja",
-      "rank": 48,
+      "rank": 50,
       "rol": "Reserva"
     }
   ],
@@ -2221,6 +2261,66 @@
       "def_p1s": 0.0,
       "def_0s": 0,
       "def_p0s": 0.0
+    },
+    {
+      "tag": "#Q0PQQPQLQ",
+      "name": "MELQUISEDEC.79",
+      "date_last_war": null,
+      "avg_th": 17,
+      "atq_count": 0,
+      "atq_avg_th_target": null,
+      "atq_avg_stars": 0,
+      "atq_3s": 0,
+      "atq_p3s": 0,
+      "atq_2s": 0,
+      "atq_p2s": 0,
+      "atq_1s": 0,
+      "atq_p1s": 0,
+      "atq_0s": 0,
+      "atq_p0s": 0,
+      "atq_miss": 0,
+      "atq_pmiss": 0,
+      "def_count": 0,
+      "def_avg_th": null,
+      "def_avg_stars": 0,
+      "def_3s": 0,
+      "def_p3s": 0,
+      "def_2s": 0,
+      "def_p2s": 0,
+      "def_1s": 0,
+      "def_p1s": 0,
+      "def_0s": 0,
+      "def_p0s": 0
+    },
+    {
+      "tag": "#GJCGRJC9Q",
+      "name": "MELQUISEDEC",
+      "date_last_war": null,
+      "avg_th": 14,
+      "atq_count": 0,
+      "atq_avg_th_target": null,
+      "atq_avg_stars": 0,
+      "atq_3s": 0,
+      "atq_p3s": 0,
+      "atq_2s": 0,
+      "atq_p2s": 0,
+      "atq_1s": 0,
+      "atq_p1s": 0,
+      "atq_0s": 0,
+      "atq_p0s": 0,
+      "atq_miss": 0,
+      "atq_pmiss": 0,
+      "def_count": 0,
+      "def_avg_th": null,
+      "def_avg_stars": 0,
+      "def_3s": 0,
+      "def_p3s": 0,
+      "def_2s": 0,
+      "def_p2s": 0,
+      "def_1s": 0,
+      "def_p1s": 0,
+      "def_0s": 0,
+      "def_p0s": 0
     },
     {
       "tag": "#9Q2JQ0G8",
@@ -3665,6 +3765,66 @@
       "def_p0s": 0.0
     },
     {
+      "tag": "#Q0PQQPQLQ",
+      "name": "MELQUISEDEC.79",
+      "date_last_war": null,
+      "avg_th": 17,
+      "atq_count": 0,
+      "atq_avg_th_target": null,
+      "atq_avg_stars": 0,
+      "atq_3s": 0,
+      "atq_p3s": 0,
+      "atq_2s": 0,
+      "atq_p2s": 0,
+      "atq_1s": 0,
+      "atq_p1s": 0,
+      "atq_0s": 0,
+      "atq_p0s": 0,
+      "atq_miss": 0,
+      "atq_pmiss": 0,
+      "def_count": 0,
+      "def_avg_th": null,
+      "def_avg_stars": 0,
+      "def_3s": 0,
+      "def_p3s": 0,
+      "def_2s": 0,
+      "def_p2s": 0,
+      "def_1s": 0,
+      "def_p1s": 0,
+      "def_0s": 0,
+      "def_p0s": 0
+    },
+    {
+      "tag": "#GJCGRJC9Q",
+      "name": "MELQUISEDEC",
+      "date_last_war": null,
+      "avg_th": 14,
+      "atq_count": 0,
+      "atq_avg_th_target": null,
+      "atq_avg_stars": 0,
+      "atq_3s": 0,
+      "atq_p3s": 0,
+      "atq_2s": 0,
+      "atq_p2s": 0,
+      "atq_1s": 0,
+      "atq_p1s": 0,
+      "atq_0s": 0,
+      "atq_p0s": 0,
+      "atq_miss": 0,
+      "atq_pmiss": 0,
+      "def_count": 0,
+      "def_avg_th": null,
+      "def_avg_stars": 0,
+      "def_3s": 0,
+      "def_p3s": 0,
+      "def_2s": 0,
+      "def_p2s": 0,
+      "def_1s": 0,
+      "def_p1s": 0,
+      "def_0s": 0,
+      "def_p0s": 0
+    },
+    {
       "tag": "#9Q2JQ0G8",
       "name": "posho",
       "date_last_war": null,
@@ -3997,11 +4157,19 @@
   ],
   "clan": [
     {
+      "tag": "#8VPQY29Y0",
+      "nick": "Tele",
+      "th": 18,
+      "rol": "leader",
+      "rango": 1,
+      "estrellas_guerra": null
+    },
+    {
       "tag": "#GLCU09UCP",
       "nick": "Say May Name",
       "th": 18,
       "rol": "admin",
-      "rango": 1,
+      "rango": 2,
       "estrellas_guerra": null
     },
     {
@@ -4009,14 +4177,6 @@
       "nick": "Gabriel :D",
       "th": 18,
       "rol": "admin",
-      "rango": 2,
-      "estrellas_guerra": null
-    },
-    {
-      "tag": "#8VPQY29Y0",
-      "nick": "Tele",
-      "th": 18,
-      "rol": "leader",
       "rango": 3,
       "estrellas_guerra": null
     },
@@ -4093,11 +4253,19 @@
       "estrellas_guerra": null
     },
     {
+      "tag": "#Q0PQQPQLQ",
+      "nick": "MELQUISEDEC.79",
+      "th": 17,
+      "rol": "member",
+      "rango": 13,
+      "estrellas_guerra": null
+    },
+    {
       "tag": "#LUPQJLYPR",
       "nick": "cris07",
       "th": 17,
       "rol": "member",
-      "rango": 13,
+      "rango": 14,
       "estrellas_guerra": null
     },
     {
@@ -4105,47 +4273,7 @@
       "nick": "Matikun",
       "th": 17,
       "rol": "admin",
-      "rango": 14,
-      "estrellas_guerra": null
-    },
-    {
-      "tag": "#YGQRVLPRY",
-      "nick": "Aubarca",
-      "th": 17,
-      "rol": "member",
       "rango": 15,
-      "estrellas_guerra": null
-    },
-    {
-      "tag": "#GLGLG92RR",
-      "nick": "Manuel",
-      "th": 16,
-      "rol": "member",
-      "rango": 16,
-      "estrellas_guerra": null
-    },
-    {
-      "tag": "#Q2YJGP08Y",
-      "nick": "Wilmer06",
-      "th": 17,
-      "rol": "member",
-      "rango": 17,
-      "estrellas_guerra": null
-    },
-    {
-      "tag": "#P8P2Y98PC",
-      "nick": "T3NT4CI0N",
-      "th": 18,
-      "rol": "member",
-      "rango": 18,
-      "estrellas_guerra": null
-    },
-    {
-      "tag": "#2LQRVJJ2",
-      "nick": "-actiived-",
-      "th": 16,
-      "rol": "member",
-      "rango": 19,
       "estrellas_guerra": null
     },
     {
@@ -4153,7 +4281,47 @@
       "nick": "Bronc0O",
       "th": 16,
       "rol": "member",
+      "rango": 16,
+      "estrellas_guerra": null
+    },
+    {
+      "tag": "#YGQRVLPRY",
+      "nick": "Aubarca",
+      "th": 17,
+      "rol": "member",
+      "rango": 17,
+      "estrellas_guerra": null
+    },
+    {
+      "tag": "#GLGLG92RR",
+      "nick": "Manuel",
+      "th": 16,
+      "rol": "member",
+      "rango": 18,
+      "estrellas_guerra": null
+    },
+    {
+      "tag": "#Q2YJGP08Y",
+      "nick": "Wilmer06",
+      "th": 17,
+      "rol": "member",
+      "rango": 19,
+      "estrellas_guerra": null
+    },
+    {
+      "tag": "#P8P2Y98PC",
+      "nick": "T3NT4CI0N",
+      "th": 18,
+      "rol": "member",
       "rango": 20,
+      "estrellas_guerra": null
+    },
+    {
+      "tag": "#2LQRVJJ2",
+      "nick": "-actiived-",
+      "th": 16,
+      "rol": "member",
+      "rango": 21,
       "estrellas_guerra": null
     },
     {
@@ -4161,23 +4329,7 @@
       "nick": "Gauss",
       "th": 15,
       "rol": "member",
-      "rango": 21,
-      "estrellas_guerra": null
-    },
-    {
-      "tag": "#8RP8J0PY9",
-      "nick": "ARMANDIUXER",
-      "th": 16,
-      "rol": "member",
       "rango": 22,
-      "estrellas_guerra": null
-    },
-    {
-      "tag": "#GQY8UU08V",
-      "nick": "SAECC",
-      "th": 16,
-      "rol": "member",
-      "rango": 23,
       "estrellas_guerra": null
     },
     {
@@ -4185,7 +4337,23 @@
       "nick": "REXIN",
       "th": 15,
       "rol": "member",
+      "rango": 23,
+      "estrellas_guerra": null
+    },
+    {
+      "tag": "#8RP8J0PY9",
+      "nick": "ARMANDIUXER",
+      "th": 16,
+      "rol": "member",
       "rango": 24,
+      "estrellas_guerra": null
+    },
+    {
+      "tag": "#GQY8UU08V",
+      "nick": "SAECC",
+      "th": 16,
+      "rol": "member",
+      "rango": 25,
       "estrellas_guerra": null
     },
     {
@@ -4193,7 +4361,7 @@
       "nick": "GoLd ViPeR",
       "th": 16,
       "rol": "member",
-      "rango": 25,
+      "rango": 26,
       "estrellas_guerra": null
     },
     {
@@ -4201,7 +4369,7 @@
       "nick": "BRANDONDREY",
       "th": 16,
       "rol": "member",
-      "rango": 26,
+      "rango": 27,
       "estrellas_guerra": null
     },
     {
@@ -4209,7 +4377,7 @@
       "nick": "Leonardo13",
       "th": 15,
       "rol": "admin",
-      "rango": 27,
+      "rango": 28,
       "estrellas_guerra": null
     },
     {
@@ -4217,7 +4385,7 @@
       "nick": "JoseCarlos4",
       "th": 15,
       "rol": "member",
-      "rango": 28,
+      "rango": 29,
       "estrellas_guerra": null
     },
     {
@@ -4225,7 +4393,7 @@
       "nick": "Xavoo05",
       "th": 15,
       "rol": "member",
-      "rango": 29,
+      "rango": 30,
       "estrellas_guerra": null
     },
     {
@@ -4233,7 +4401,7 @@
       "nick": "L&ST&R",
       "th": 16,
       "rol": "member",
-      "rango": 30,
+      "rango": 31,
       "estrellas_guerra": null
     },
     {
@@ -4241,7 +4409,7 @@
       "nick": "BRAYAN×_×",
       "th": 16,
       "rol": "member",
-      "rango": 31,
+      "rango": 32,
       "estrellas_guerra": null
     },
     {
@@ -4249,21 +4417,13 @@
       "nick": "Castor",
       "th": 17,
       "rol": "member",
-      "rango": 32,
+      "rango": 33,
       "estrellas_guerra": null
     },
     {
       "tag": "#QC2QR8YYJ",
       "nick": "Krys",
       "th": 16,
-      "rol": "member",
-      "rango": 33,
-      "estrellas_guerra": null
-    },
-    {
-      "tag": "#8QQPRGR2G",
-      "nick": "GABO",
-      "th": 15,
       "rol": "member",
       "rango": 34,
       "estrellas_guerra": null
@@ -4277,11 +4437,27 @@
       "estrellas_guerra": null
     },
     {
+      "tag": "#8QQPRGR2G",
+      "nick": "GABO",
+      "th": 15,
+      "rol": "member",
+      "rango": 36,
+      "estrellas_guerra": null
+    },
+    {
+      "tag": "#GJCGRJC9Q",
+      "nick": "MELQUISEDEC",
+      "th": 14,
+      "rol": "member",
+      "rango": 37,
+      "estrellas_guerra": null
+    },
+    {
       "tag": "#LG9VGRLG2",
       "nick": "ADNHDZ94",
       "th": 16,
       "rol": "member",
-      "rango": 36,
+      "rango": 38,
       "estrellas_guerra": null
     },
     {
@@ -4289,7 +4465,7 @@
       "nick": "posho",
       "th": 16,
       "rol": "member",
-      "rango": 37,
+      "rango": 39,
       "estrellas_guerra": null
     },
     {
@@ -4297,7 +4473,7 @@
       "nick": "Tooff",
       "th": 15,
       "rol": "admin",
-      "rango": 38,
+      "rango": 40,
       "estrellas_guerra": null
     },
     {
@@ -4305,7 +4481,7 @@
       "nick": "Amaterasu",
       "th": 15,
       "rol": "coLeader",
-      "rango": 39,
+      "rango": 41,
       "estrellas_guerra": null
     },
     {
@@ -4313,7 +4489,7 @@
       "nick": "andres",
       "th": 15,
       "rol": "member",
-      "rango": 40,
+      "rango": 42,
       "estrellas_guerra": null
     },
     {
@@ -4321,7 +4497,7 @@
       "nick": "Ezequiel",
       "th": 14,
       "rol": "member",
-      "rango": 41,
+      "rango": 43,
       "estrellas_guerra": null
     },
     {
@@ -4329,7 +4505,7 @@
       "nick": "¥j.a.v.i.e.r ¥",
       "th": 14,
       "rol": "member",
-      "rango": 42,
+      "rango": 44,
       "estrellas_guerra": null
     },
     {
@@ -4337,15 +4513,7 @@
       "nick": "blackwarrior",
       "th": 14,
       "rol": "member",
-      "rango": 43,
-      "estrellas_guerra": null
-    },
-    {
-      "tag": "#2J9LU90PQ",
-      "nick": "Guerrero Seb.",
-      "th": 12,
-      "rol": "member",
-      "rango": 44,
+      "rango": 45,
       "estrellas_guerra": null
     },
     {
@@ -4353,7 +4521,15 @@
       "nick": "メデーLluv-Unreal",
       "th": 12,
       "rol": "member",
-      "rango": 45,
+      "rango": 46,
+      "estrellas_guerra": null
+    },
+    {
+      "tag": "#2J9LU90PQ",
+      "nick": "Guerrero Seb.",
+      "th": 12,
+      "rol": "member",
+      "rango": 47,
       "estrellas_guerra": null
     },
     {
@@ -4361,7 +4537,7 @@
       "nick": "Nilopienses",
       "th": 9,
       "rol": "member",
-      "rango": 46,
+      "rango": 48,
       "estrellas_guerra": null
     },
     {
@@ -4369,7 +4545,7 @@
       "nick": "It's Klev!",
       "th": 16,
       "rol": "member",
-      "rango": 47,
+      "rango": 49,
       "estrellas_guerra": null
     },
     {
@@ -4377,7 +4553,7 @@
       "nick": "Alfredron124",
       "th": 16,
       "rol": "member",
-      "rango": 48,
+      "rango": 50,
       "estrellas_guerra": null
     }
   ],
@@ -4926,7 +5102,7 @@
   "meta": {
     "clanTag": "#2VJ2LPY8",
     "clanName": "20,000 Leagues",
-    "lastUpdated": "2026-11-09 19:58 UTC",
+    "lastUpdated": "2026-11-10 02:39 UTC",
     "historyStart": "2026-09-22",
     "source": "Clash of Clans API (oficial) vía cocproxy.royaleapi.dev"
   }
