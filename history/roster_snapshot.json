@@ -1,7 +1,7 @@
 {
   "clan_name": "20,000 Leagues",
   "clan_tag": "#2VJ2LPY8",
-  "fetched_at": "2026-11-18T10:32:45.529141+00:00",
+  "fetched_at": "2026-11-18T19:17:10.871378+00:00",
   "members": [
     {
       "tag": "#PPQ0PQVY",
@@ -25,11 +25,11 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png"
         }
       },
-      "trophies": 371,
+      "trophies": 515,
       "builderBaseTrophies": 3836,
       "clanRank": 1,
-      "previousClanRank": 2,
-      "donations": 435,
+      "previousClanRank": 1,
+      "donations": 439,
       "donationsReceived": 0,
       "playerHouse": {
         "elements": [
@@ -78,12 +78,12 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png"
         }
       },
-      "trophies": 77,
+      "trophies": 468,
       "builderBaseTrophies": 3165,
       "clanRank": 2,
-      "previousClanRank": 1,
-      "donations": 4005,
-      "donationsReceived": 1253,
+      "previousClanRank": 2,
+      "donations": 4037,
+      "donationsReceived": 2128,
       "playerHouse": {
         "elements": [
           {
@@ -216,6 +216,112 @@
       }
     },
     {
+      "tag": "#P2V9RRPJY",
+      "name": "⚡Rudy⚡",
+      "role": "member",
+      "townHallLevel": 17,
+      "expLevel": 196,
+      "league": {
+        "id": 29000000,
+        "name": "Unranked",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000032,
+        "name": "Electro League 32",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leaguetiers/125/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
+          "large": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png"
+        }
+      },
+      "trophies": 711,
+      "builderBaseTrophies": 3647,
+      "clanRank": 5,
+      "previousClanRank": 8,
+      "donations": 1679,
+      "donationsReceived": 1937,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000002
+          },
+          {
+            "type": "walls",
+            "id": 82000052
+          },
+          {
+            "type": "roof",
+            "id": 82000023
+          },
+          {
+            "type": "decoration",
+            "id": 82000060
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000028,
+        "name": "Steel League I"
+      }
+    },
+    {
+      "tag": "#QYGRGCYVL",
+      "name": "Nilodudes",
+      "role": "admin",
+      "townHallLevel": 18,
+      "expLevel": 224,
+      "league": {
+        "id": 29000000,
+        "name": "Unranked",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000032,
+        "name": "Electro League 32",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leaguetiers/125/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
+          "large": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png"
+        }
+      },
+      "trophies": 631,
+      "builderBaseTrophies": 2806,
+      "clanRank": 6,
+      "previousClanRank": 6,
+      "donations": 3309,
+      "donationsReceived": 681,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000002
+          },
+          {
+            "type": "walls",
+            "id": 82000049
+          },
+          {
+            "type": "roof",
+            "id": 82000010
+          },
+          {
+            "type": "decoration",
+            "id": 82000064
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000024,
+        "name": "Iron League II"
+      }
+    },
+    {
       "tag": "#2PLU0C92P",
       "name": "Gabo",
       "role": "coLeader",
@@ -239,9 +345,9 @@
       },
       "trophies": 589,
       "builderBaseTrophies": 2578,
-      "clanRank": 5,
+      "clanRank": 7,
       "previousClanRank": 7,
-      "donations": 3271,
+      "donations": 4089,
       "donationsReceived": 2377,
       "playerHouse": {
         "elements": [
@@ -290,12 +396,12 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png"
         }
       },
-      "trophies": 326,
+      "trophies": 394,
       "builderBaseTrophies": 3170,
-      "clanRank": 6,
-      "previousClanRank": 6,
-      "donations": 1655,
-      "donationsReceived": 1361,
+      "clanRank": 8,
+      "previousClanRank": 5,
+      "donations": 1831,
+      "donationsReceived": 1550,
       "playerHouse": {
         "elements": [
           {
@@ -322,112 +428,6 @@
       }
     },
     {
-      "tag": "#QYGRGCYVL",
-      "name": "Nilodudes",
-      "role": "admin",
-      "townHallLevel": 18,
-      "expLevel": 224,
-      "league": {
-        "id": 29000000,
-        "name": "Unranked",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
-        }
-      },
-      "leagueTier": {
-        "id": 105000032,
-        "name": "Electro League 32",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leaguetiers/125/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
-          "large": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png"
-        }
-      },
-      "trophies": 115,
-      "builderBaseTrophies": 2806,
-      "clanRank": 7,
-      "previousClanRank": 5,
-      "donations": 3309,
-      "donationsReceived": 594,
-      "playerHouse": {
-        "elements": [
-          {
-            "type": "ground",
-            "id": 82000002
-          },
-          {
-            "type": "walls",
-            "id": 82000049
-          },
-          {
-            "type": "roof",
-            "id": 82000010
-          },
-          {
-            "type": "decoration",
-            "id": 82000064
-          }
-        ]
-      },
-      "builderBaseLeague": {
-        "id": 44000024,
-        "name": "Iron League II"
-      }
-    },
-    {
-      "tag": "#P2V9RRPJY",
-      "name": "⚡Rudy⚡",
-      "role": "member",
-      "townHallLevel": 17,
-      "expLevel": 196,
-      "league": {
-        "id": 29000000,
-        "name": "Unranked",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
-        }
-      },
-      "leagueTier": {
-        "id": 105000032,
-        "name": "Electro League 32",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leaguetiers/125/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
-          "large": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png"
-        }
-      },
-      "trophies": 0,
-      "builderBaseTrophies": 3647,
-      "clanRank": 8,
-      "previousClanRank": 8,
-      "donations": 1626,
-      "donationsReceived": 1937,
-      "playerHouse": {
-        "elements": [
-          {
-            "type": "ground",
-            "id": 82000002
-          },
-          {
-            "type": "walls",
-            "id": 82000052
-          },
-          {
-            "type": "roof",
-            "id": 82000023
-          },
-          {
-            "type": "decoration",
-            "id": 82000060
-          }
-        ]
-      },
-      "builderBaseLeague": {
-        "id": 44000028,
-        "name": "Steel League I"
-      }
-    },
-    {
       "tag": "#Q2Q2CCGLR",
       "name": "Drake23",
       "role": "member",
@@ -449,7 +449,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png"
         }
       },
-      "trophies": 0,
+      "trophies": 22,
       "builderBaseTrophies": 3058,
       "clanRank": 9,
       "previousClanRank": 9,
@@ -481,59 +481,6 @@
       }
     },
     {
-      "tag": "#QUJJ8QPVJ",
-      "name": "Daless Matias",
-      "role": "member",
-      "townHallLevel": 17,
-      "expLevel": 193,
-      "league": {
-        "id": 29000000,
-        "name": "Unranked",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
-        }
-      },
-      "leagueTier": {
-        "id": 105000031,
-        "name": "Electro League 31",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leaguetiers/125/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png",
-          "large": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png"
-        }
-      },
-      "trophies": 28,
-      "builderBaseTrophies": 3104,
-      "clanRank": 10,
-      "previousClanRank": 10,
-      "donations": 385,
-      "donationsReceived": 55,
-      "playerHouse": {
-        "elements": [
-          {
-            "type": "ground",
-            "id": 82000004
-          },
-          {
-            "type": "walls",
-            "id": 82000079
-          },
-          {
-            "type": "roof",
-            "id": 82000082
-          },
-          {
-            "type": "decoration",
-            "id": 82000066
-          }
-        ]
-      },
-      "builderBaseLeague": {
-        "id": 44000025,
-        "name": "Iron League I"
-      }
-    },
-    {
       "tag": "#LUVQVRPG8",
       "name": "pachiche123",
       "role": "member",
@@ -555,9 +502,9 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png"
         }
       },
-      "trophies": 0,
+      "trophies": 349,
       "builderBaseTrophies": 3275,
-      "clanRank": 11,
+      "clanRank": 10,
       "previousClanRank": 11,
       "donations": 0,
       "donationsReceived": 0,
@@ -587,6 +534,59 @@
       }
     },
     {
+      "tag": "#QUJJ8QPVJ",
+      "name": "Daless Matias",
+      "role": "member",
+      "townHallLevel": 17,
+      "expLevel": 193,
+      "league": {
+        "id": 29000000,
+        "name": "Unranked",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000031,
+        "name": "Electro League 31",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leaguetiers/125/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png",
+          "large": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png"
+        }
+      },
+      "trophies": 41,
+      "builderBaseTrophies": 3104,
+      "clanRank": 11,
+      "previousClanRank": 10,
+      "donations": 385,
+      "donationsReceived": 55,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000004
+          },
+          {
+            "type": "walls",
+            "id": 82000079
+          },
+          {
+            "type": "roof",
+            "id": 82000082
+          },
+          {
+            "type": "decoration",
+            "id": 82000066
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000025,
+        "name": "Iron League I"
+      }
+    },
+    {
       "tag": "#QRLUQR9RU",
       "name": "liaos",
       "role": "member",
@@ -609,10 +609,10 @@
         }
       },
       "trophies": 0,
-      "builderBaseTrophies": 3006,
+      "builderBaseTrophies": 2959,
       "clanRank": 12,
       "previousClanRank": 12,
-      "donations": 147,
+      "donations": 196,
       "donationsReceived": 116,
       "playerHouse": {
         "elements": [
@@ -635,8 +635,8 @@
         ]
       },
       "builderBaseLeague": {
-        "id": 44000025,
-        "name": "Iron League I"
+        "id": 44000024,
+        "name": "Iron League II"
       }
     },
     {
@@ -714,12 +714,12 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png"
         }
       },
-      "trophies": 262,
+      "trophies": 287,
       "builderBaseTrophies": 3009,
       "clanRank": 14,
-      "previousClanRank": 16,
+      "previousClanRank": 14,
       "donations": 711,
-      "donationsReceived": 2193,
+      "donationsReceived": 2280,
       "playerHouse": {
         "elements": [
           {
@@ -767,12 +767,12 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png"
         }
       },
-      "trophies": 102,
+      "trophies": 254,
       "builderBaseTrophies": 3703,
       "clanRank": 15,
-      "previousClanRank": 14,
+      "previousClanRank": 15,
       "donations": 861,
-      "donationsReceived": 2530,
+      "donationsReceived": 2583,
       "playerHouse": {
         "elements": [
           {
@@ -820,10 +820,10 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png"
         }
       },
-      "trophies": 32,
+      "trophies": 40,
       "builderBaseTrophies": 3265,
       "clanRank": 16,
-      "previousClanRank": 15,
+      "previousClanRank": 16,
       "donations": 0,
       "donationsReceived": 0,
       "playerHouse": {
@@ -926,11 +926,11 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/DIMeRH3N4lrNObA3zAmk_eUin8nvNeLR89qYznnA--s.png"
         }
       },
-      "trophies": 40,
+      "trophies": 65,
       "builderBaseTrophies": 3295,
       "clanRank": 18,
       "previousClanRank": 18,
-      "donations": 1494,
+      "donations": 1602,
       "donationsReceived": 918,
       "playerHouse": {
         "elements": [
@@ -982,7 +982,7 @@
       "trophies": 24,
       "builderBaseTrophies": 3350,
       "clanRank": 19,
-      "previousClanRank": 20,
+      "previousClanRank": 19,
       "donations": 145,
       "donationsReceived": 914,
       "playerHouse": {
@@ -1035,7 +1035,7 @@
       "trophies": 0,
       "builderBaseTrophies": 3534,
       "clanRank": 20,
-      "previousClanRank": 19,
+      "previousClanRank": 20,
       "donations": 170,
       "donationsReceived": 83,
       "playerHouse": {
@@ -1139,7 +1139,7 @@
         }
       },
       "trophies": 0,
-      "builderBaseTrophies": 4429,
+      "builderBaseTrophies": 4424,
       "clanRank": 22,
       "previousClanRank": 22,
       "donations": 241,
@@ -1174,7 +1174,7 @@
       "name": "Gauss",
       "role": "member",
       "townHallLevel": 15,
-      "expLevel": 148,
+      "expLevel": 149,
       "league": {
         "id": 29000000,
         "name": "Unranked",
@@ -1191,10 +1191,10 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/YCZ7O_3_c8eCBYvX-92qiWeLc6Md6eNJ5A8O-2vUg7I.png"
         }
       },
-      "trophies": 178,
+      "trophies": 206,
       "builderBaseTrophies": 2327,
       "clanRank": 23,
-      "previousClanRank": 23,
+      "previousClanRank": 24,
       "donations": 619,
       "donationsReceived": 1016,
       "playerHouse": {
@@ -1247,7 +1247,7 @@
       "trophies": 80,
       "builderBaseTrophies": 2972,
       "clanRank": 24,
-      "previousClanRank": 24,
+      "previousClanRank": 23,
       "donations": 54,
       "donationsReceived": 0,
       "playerHouse": {
@@ -1280,7 +1280,7 @@
       "name": "REXIN",
       "role": "member",
       "townHallLevel": 15,
-      "expLevel": 158,
+      "expLevel": 159,
       "league": {
         "id": 29000000,
         "name": "Unranked",
@@ -1721,11 +1721,11 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/vxV7LI0votsz0_n-8lW-Lag96D5HwKsEgEk_7247zC4.png"
         }
       },
-      "trophies": 51,
+      "trophies": 85,
       "builderBaseTrophies": 3345,
       "clanRank": 33,
       "previousClanRank": 33,
-      "donations": 6,
+      "donations": 69,
       "donationsReceived": 956,
       "playerHouse": {
         "elements": [
@@ -1774,12 +1774,12 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/0eDMQmsiZ0gs8xzViGfVETnYjwzgELTKwYhH3izevT4.png"
         }
       },
-      "trophies": 58,
+      "trophies": 167,
       "builderBaseTrophies": 2375,
       "clanRank": 34,
       "previousClanRank": 34,
-      "donations": 783,
-      "donationsReceived": 266,
+      "donations": 909,
+      "donationsReceived": 442,
       "playerHouse": {
         "elements": [
           {
@@ -1827,7 +1827,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/iTWXPUUFQy0uEb7NDpMTyzGMFOJvlC4SLAqlHYgC8do.png"
         }
       },
-      "trophies": 260,
+      "trophies": 291,
       "builderBaseTrophies": 2756,
       "clanRank": 35,
       "previousClanRank": 35,
@@ -1990,7 +1990,7 @@
       "builderBaseTrophies": 2627,
       "clanRank": 38,
       "previousClanRank": 38,
-      "donations": 422,
+      "donations": 460,
       "donationsReceived": 1249,
       "playerHouse": {
         "elements": [
@@ -2039,7 +2039,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/yS8XBv_a_SNtCpcofsWMFaojRNwO504Py7HyDCBCjYU.png"
         }
       },
-      "trophies": 68,
+      "trophies": 90,
       "builderBaseTrophies": 2545,
       "clanRank": 39,
       "previousClanRank": 39,
@@ -2357,7 +2357,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/6BwmbzkNm6p2unZonTauFQ_683uNl4NYtoOXJmEs78c.png"
         }
       },
-      "trophies": 183,
+      "trophies": 407,
       "builderBaseTrophies": 0,
       "clanRank": 45,
       "previousClanRank": 45,
@@ -2516,7 +2516,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/CoTrW7nhyiNIDCI4WHUK-0BuhOxibwd_tfASdtmMWFE.png"
         }
       },
-      "trophies": 61,
+      "trophies": 152,
       "builderBaseTrophies": 1669,
       "clanRank": 48,
       "previousClanRank": 48,
