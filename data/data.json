@@ -3,19 +3,19 @@
     {
       "player": "Gauss",
       "tag": "#GRGGJ8L92",
-      "th": 15,
+      "th": 16,
       "atq1m": 16,
       "prom1m": 3,
       "p3_1m": 1.0,
       "pfaltas1m": 0,
-      "score1m": 100.2533,
+      "score1m": 99.6125,
       "atq2m": 16,
       "prom2m": 3,
       "p3_2m": 1.0,
       "pfaltas2m": 0,
-      "score2m": 100.2533,
+      "score2m": 99.6125,
       "tendencia": null,
-      "score_final": 100.2533,
+      "score_final": 99.6125,
       "confianza": "Media",
       "rank": 1,
       "rol": "Titular fijo"
@@ -303,19 +303,19 @@
     {
       "player": "Ezequiel",
       "tag": "#9RGQPYUJP",
-      "th": 14,
+      "th": 15,
       "atq1m": 14,
       "prom1m": 2.4286,
       "p3_1m": 0.5714,
       "pfaltas1m": 0,
-      "score1m": 82.4806,
+      "score1m": 81.7597,
       "atq2m": 32,
       "prom2m": 2.3125,
       "p3_2m": 0.5625,
       "pfaltas2m": 0,
-      "score2m": 80.3887,
+      "score2m": 79.6892,
       "tendencia": null,
-      "score_final": 81.7484,
+      "score_final": 81.035,
       "confianza": "Alta",
       "rank": 16,
       "rol": "Suplente prioritario"
@@ -965,7 +965,7 @@
     {
       "rank": 1,
       "player": "Gauss",
-      "score_final": 100.2533,
+      "score_final": 99.6125,
       "tendencia": null,
       "prom1m": 3,
       "p3_1m": 1.0
@@ -1084,7 +1084,7 @@
     }
   ],
   "indicadores": {
-    "Score promedio Top 15": 92.0898,
+    "Score promedio Top 15": 92.0471,
     "Promedio estrellas 1 mes Top 15": 2.7822,
     "Triple rate 1 mes Top 15": 0.8269,
     "Ataques perdidos 1 mes Top 15": 0,
@@ -1116,7 +1116,7 @@
       "tag": "#GRGGJ8L92",
       "name": "Gauss",
       "date_last_war": null,
-      "avg_th": 15,
+      "avg_th": 16,
       "atq_count": 16,
       "atq_avg_th_target": 15.38,
       "atq_avg_stars": 3,
@@ -1566,7 +1566,7 @@
       "tag": "#9RGQPYUJP",
       "name": "Ezequiel",
       "date_last_war": null,
-      "avg_th": 14,
+      "avg_th": 15,
       "atq_count": 14,
       "atq_avg_th_target": 15.14,
       "atq_avg_stars": 2.4286,
@@ -2558,7 +2558,7 @@
       "tag": "#GRGGJ8L92",
       "name": "Gauss",
       "date_last_war": null,
-      "avg_th": 15,
+      "avg_th": 16,
       "atq_count": 16,
       "atq_avg_th_target": 15.38,
       "atq_avg_stars": 3,
@@ -3008,7 +3008,7 @@
       "tag": "#9RGQPYUJP",
       "name": "Ezequiel",
       "date_last_war": null,
-      "avg_th": 14,
+      "avg_th": 15,
       "atq_count": 32,
       "atq_avg_th_target": 14.69,
       "atq_avg_stars": 2.3125,
@@ -4175,7 +4175,7 @@
     {
       "tag": "#GRGGJ8L92",
       "nick": "Gauss",
-      "th": 15,
+      "th": 16,
       "rol": "member",
       "rango": 23,
       "estrellas_guerra": null
@@ -4327,7 +4327,7 @@
     {
       "tag": "#9RGQPYUJP",
       "nick": "Ezequiel",
-      "th": 14,
+      "th": 15,
       "rol": "member",
       "rango": 42,
       "estrellas_guerra": null
@@ -4926,7 +4926,7 @@
   "meta": {
     "clanTag": "#2VJ2LPY8",
     "clanName": "20,000 Leagues",
-    "lastUpdated": "2026-11-20 17:42 UTC",
+    "lastUpdated": "2026-11-20 23:49 UTC",
     "historyStart": "2026-09-22",
     "source": "Clash of Clans API (oficial) vía cocproxy.royaleapi.dev"
   }
