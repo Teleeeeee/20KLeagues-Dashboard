@@ -1,7 +1,7 @@
 {
   "clan_name": "20,000 Leagues",
   "clan_tag": "#2VJ2LPY8",
-  "fetched_at": "2026-11-20T23:49:00.042425+00:00",
+  "fetched_at": "2026-11-21T06:22:37.324960+00:00",
   "members": [
     {
       "tag": "#PPQ0PQVY",
@@ -78,12 +78,12 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png"
         }
       },
-      "trophies": 512,
+      "trophies": 647,
       "builderBaseTrophies": 3165,
       "clanRank": 2,
       "previousClanRank": 2,
-      "donations": 4348,
-      "donationsReceived": 2302,
+      "donations": 4519,
+      "donationsReceived": 2563,
       "playerHouse": {
         "elements": [
           {
@@ -237,7 +237,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png"
         }
       },
-      "trophies": 818,
+      "trophies": 830,
       "builderBaseTrophies": 3170,
       "clanRank": 5,
       "previousClanRank": 7,
@@ -347,7 +347,7 @@
       "builderBaseTrophies": 2578,
       "clanRank": 7,
       "previousClanRank": 8,
-      "donations": 4615,
+      "donations": 4999,
       "donationsReceived": 2538,
       "playerHouse": {
         "elements": [
@@ -400,7 +400,7 @@
       "builderBaseTrophies": 2806,
       "clanRank": 8,
       "previousClanRank": 6,
-      "donations": 3414,
+      "donations": 3554,
       "donationsReceived": 941,
       "playerHouse": {
         "elements": [
@@ -449,7 +449,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png"
         }
       },
-      "trophies": 47,
+      "trophies": 62,
       "builderBaseTrophies": 3103,
       "clanRank": 9,
       "previousClanRank": 9,
@@ -665,8 +665,8 @@
       "builderBaseTrophies": 3009,
       "clanRank": 13,
       "previousClanRank": 13,
-      "donations": 924,
-      "donationsReceived": 2335,
+      "donations": 1006,
+      "donationsReceived": 2453,
       "playerHouse": {
         "elements": [
           {
@@ -718,7 +718,7 @@
       "builderBaseTrophies": 3056,
       "clanRank": 14,
       "previousClanRank": 14,
-      "donations": 463,
+      "donations": 464,
       "donationsReceived": 15,
       "playerHouse": {
         "elements": [
@@ -771,8 +771,8 @@
       "builderBaseTrophies": 3682,
       "clanRank": 15,
       "previousClanRank": 15,
-      "donations": 861,
-      "donationsReceived": 2900,
+      "donations": 948,
+      "donationsReceived": 2953,
       "playerHouse": {
         "elements": [
           {
@@ -931,7 +931,7 @@
       "clanRank": 18,
       "previousClanRank": 18,
       "donations": 207,
-      "donationsReceived": 1356,
+      "donationsReceived": 1386,
       "playerHouse": {
         "elements": [
           {
@@ -979,7 +979,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/DIMeRH3N4lrNObA3zAmk_eUin8nvNeLR89qYznnA--s.png"
         }
       },
-      "trophies": 106,
+      "trophies": 234,
       "builderBaseTrophies": 3534,
       "clanRank": 19,
       "previousClanRank": 19,
@@ -1170,6 +1170,59 @@
       }
     },
     {
+      "tag": "#GULY89LRR",
+      "name": "REXIN",
+      "role": "member",
+      "townHallLevel": 15,
+      "expLevel": 159,
+      "league": {
+        "id": 29000000,
+        "name": "Unranked",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000028,
+        "name": "Dragon League 28",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leaguetiers/125/YCZ7O_3_c8eCBYvX-92qiWeLc6Md6eNJ5A8O-2vUg7I.png",
+          "large": "https://api-assets.clashofclans.com/leaguetiers/326/YCZ7O_3_c8eCBYvX-92qiWeLc6Md6eNJ5A8O-2vUg7I.png"
+        }
+      },
+      "trophies": 467,
+      "builderBaseTrophies": 1095,
+      "clanRank": 23,
+      "previousClanRank": 25,
+      "donations": 498,
+      "donationsReceived": 1542,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000139
+          },
+          {
+            "type": "walls",
+            "id": 82000128
+          },
+          {
+            "type": "roof",
+            "id": 82000126
+          },
+          {
+            "type": "decoration",
+            "id": 82000068
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000010,
+        "name": "Stone League V"
+      }
+    },
+    {
       "tag": "#GRGGJ8L92",
       "name": "Gauss",
       "role": "member",
@@ -1193,7 +1246,7 @@
       },
       "trophies": 338,
       "builderBaseTrophies": 2327,
-      "clanRank": 23,
+      "clanRank": 24,
       "previousClanRank": 23,
       "donations": 619,
       "donationsReceived": 1099,
@@ -1244,9 +1297,9 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/YCZ7O_3_c8eCBYvX-92qiWeLc6Md6eNJ5A8O-2vUg7I.png"
         }
       },
-      "trophies": 139,
+      "trophies": 254,
       "builderBaseTrophies": 2972,
-      "clanRank": 24,
+      "clanRank": 25,
       "previousClanRank": 24,
       "donations": 54,
       "donationsReceived": 0,
@@ -1273,59 +1326,6 @@
       "builderBaseLeague": {
         "id": 44000024,
         "name": "Iron League II"
-      }
-    },
-    {
-      "tag": "#GULY89LRR",
-      "name": "REXIN",
-      "role": "member",
-      "townHallLevel": 15,
-      "expLevel": 159,
-      "league": {
-        "id": 29000000,
-        "name": "Unranked",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
-        }
-      },
-      "leagueTier": {
-        "id": 105000028,
-        "name": "Dragon League 28",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leaguetiers/125/YCZ7O_3_c8eCBYvX-92qiWeLc6Md6eNJ5A8O-2vUg7I.png",
-          "large": "https://api-assets.clashofclans.com/leaguetiers/326/YCZ7O_3_c8eCBYvX-92qiWeLc6Md6eNJ5A8O-2vUg7I.png"
-        }
-      },
-      "trophies": 53,
-      "builderBaseTrophies": 1095,
-      "clanRank": 25,
-      "previousClanRank": 25,
-      "donations": 498,
-      "donationsReceived": 1542,
-      "playerHouse": {
-        "elements": [
-          {
-            "type": "ground",
-            "id": 82000139
-          },
-          {
-            "type": "walls",
-            "id": 82000128
-          },
-          {
-            "type": "roof",
-            "id": 82000126
-          },
-          {
-            "type": "decoration",
-            "id": 82000068
-          }
-        ]
-      },
-      "builderBaseLeague": {
-        "id": 44000010,
-        "name": "Stone League V"
       }
     },
     {
@@ -1673,7 +1673,7 @@
       "clanRank": 32,
       "previousClanRank": 32,
       "donations": 30,
-      "donationsReceived": 0,
+      "donationsReceived": 83,
       "playerHouse": {
         "elements": [
           {
@@ -1779,7 +1779,7 @@
       "clanRank": 34,
       "previousClanRank": 34,
       "donations": 1095,
-      "donationsReceived": 617,
+      "donationsReceived": 763,
       "playerHouse": {
         "elements": [
           {
@@ -1831,8 +1831,8 @@
       "builderBaseTrophies": 2682,
       "clanRank": 35,
       "previousClanRank": 35,
-      "donations": 381,
-      "donationsReceived": 535,
+      "donations": 411,
+      "donationsReceived": 588,
       "playerHouse": {
         "elements": [
           {
@@ -1938,7 +1938,7 @@
       "clanRank": 37,
       "previousClanRank": 37,
       "donations": 0,
-      "donationsReceived": 355,
+      "donationsReceived": 433,
       "playerHouse": {
         "elements": [
           {
@@ -2149,8 +2149,8 @@
       "builderBaseTrophies": 2893,
       "clanRank": 41,
       "previousClanRank": 41,
-      "donations": 139,
-      "donationsReceived": 163,
+      "donations": 149,
+      "donationsReceived": 246,
       "playerHouse": {
         "elements": [
           {
@@ -2357,7 +2357,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/6BwmbzkNm6p2unZonTauFQ_683uNl4NYtoOXJmEs78c.png"
         }
       },
-      "trophies": 407,
+      "trophies": 433,
       "builderBaseTrophies": 0,
       "clanRank": 45,
       "previousClanRank": 45,
@@ -2463,7 +2463,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/pQHVG1p0IboE8Ggp0U1YR7U8dWhVn4YSS1zSPH61F0I.png"
         }
       },
-      "trophies": 307,
+      "trophies": 335,
       "builderBaseTrophies": 2198,
       "clanRank": 47,
       "previousClanRank": 47,
